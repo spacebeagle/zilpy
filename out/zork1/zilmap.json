@@ -1,0 +1,6896 @@
+{
+ "target": "python",
+ "definitions": {
+  "ABOVE_GROUND": {
+   "zil": "ABOVE-GROUND",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 2630,
+   "module": "_1dungeon"
+  },
+  "ACCESSIBLE_p": {
+   "zil": "ACCESSIBLE?",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1372,
+   "module": "gparser"
+  },
+  "ACLAUSE_WIN": {
+   "zil": "ACLAUSE-WIN",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 634,
+   "module": "gparser"
+  },
+  "ADVENTURER": {
+   "zil": "ADVENTURER",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 267,
+   "module": "gglobals"
+  },
+  "ADVERTISEMENT": {
+   "zil": "ADVERTISEMENT",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 565,
+   "module": "_1dungeon"
+  },
+  "AGAIN_DIR": {
+   "zil": "AGAIN-DIR",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 384,
+   "module": "gparser"
+  },
+  "AGAIN_LEXV": {
+   "zil": "AGAIN-LEXV",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 36,
+   "module": "gparser"
+  },
+  "ALTAR": {
+   "zil": "ALTAR",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 205,
+   "module": "_1dungeon"
+  },
+  "ALWAYS_LIT": {
+   "zil": "ALWAYS-LIT",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 1331,
+   "module": "gparser"
+  },
+  "ARAGAIN_FALLS": {
+   "zil": "ARAGAIN-FALLS",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2319,
+   "module": "_1dungeon"
+  },
+  "ATLANTIS_ROOM": {
+   "zil": "ATLANTIS-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1923,
+   "module": "_1dungeon"
+  },
+  "ATTIC": {
+   "zil": "ATTIC",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1443,
+   "module": "_1dungeon"
+  },
+  "ATTIC_TABLE": {
+   "zil": "ATTIC-TABLE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 279,
+   "module": "_1dungeon"
+  },
+  "AWAKEN": {
+   "zil": "AWAKEN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3843,
+   "module": "_1actions"
+  },
+  "AXE": {
+   "zil": "AXE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 180,
+   "module": "_1dungeon"
+  },
+  "AXE_F": {
+   "zil": "AXE-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 622,
+   "module": "_1actions"
+  },
+  "BAD_EGG": {
+   "zil": "BAD-EGG",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2960,
+   "module": "_1actions"
+  },
+  "BAG_OF_COINS": {
+   "zil": "BAG-OF-COINS",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 533,
+   "module": "_1dungeon"
+  },
+  "BAG_OF_COINS_F": {
+   "zil": "BAG-OF-COINS-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4137,
+   "module": "_1actions"
+  },
+  "BAR": {
+   "zil": "BAR",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 725,
+   "module": "_1dungeon"
+  },
+  "BARROW": {
+   "zil": "BARROW",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 435,
+   "module": "_1dungeon"
+  },
+  "BARROW_DOOR": {
+   "zil": "BARROW-DOOR",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 427,
+   "module": "_1dungeon"
+  },
+  "BARROW_DOOR_FCN": {
+   "zil": "BARROW-DOOR-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 432,
+   "module": "_1actions"
+  },
+  "BARROW_FCN": {
+   "zil": "BARROW-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 436,
+   "module": "_1actions"
+  },
+  "BASE_SCORE": {
+   "zil": "BASE-SCORE",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1847,
+   "module": "gverbs"
+  },
+  "BASKET_F": {
+   "zil": "BASKET-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 277,
+   "module": "_1actions"
+  },
+  "BAT": {
+   "zil": "BAT",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 155,
+   "module": "_1dungeon"
+  },
+  "BATS_ROOM": {
+   "zil": "BATS-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2478,
+   "module": "_1actions"
+  },
+  "BAT_D": {
+   "zil": "BAT-D",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2469,
+   "module": "_1actions"
+  },
+  "BAT_DROPS": {
+   "zil": "BAT-DROPS",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 332,
+   "module": "_1actions"
+  },
+  "BAT_F": {
+   "zil": "BAT-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 308,
+   "module": "_1actions"
+  },
+  "BAT_ROOM": {
+   "zil": "BAT-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2441,
+   "module": "_1dungeon"
+  },
+  "BAUBLE": {
+   "zil": "BAUBLE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1180,
+   "module": "_1dungeon"
+  },
+  "BDIGS": {
+   "zil": "BDIGS",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2871,
+   "module": "_1actions"
+  },
+  "BEACH_DIG": {
+   "zil": "BEACH-DIG",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2851,
+   "module": "_1actions"
+  },
+  "BELL": {
+   "zil": "BELL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 164,
+   "module": "_1dungeon"
+  },
+  "BELL_F": {
+   "zil": "BELL-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 343,
+   "module": "_1actions"
+  },
+  "BLACK_BOOK": {
+   "zil": "BLACK-BOOK",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2187,
+   "module": "_1actions"
+  },
+  "BLESSINGS": {
+   "zil": "BLESSINGS",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 96,
+   "module": "gglobals"
+  },
+  "BLUE_BUTTON": {
+   "zil": "BLUE-BUTTON",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 330,
+   "module": "_1dungeon"
+  },
+  "BOARD": {
+   "zil": "BOARD",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 13,
+   "module": "_1dungeon"
+  },
+  "BOARDED_WINDOW": {
+   "zil": "BOARDED-WINDOW",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 411,
+   "module": "_1dungeon"
+  },
+  "BOARDED_WINDOW_FCN": {
+   "zil": "BOARDED-WINDOW-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 370,
+   "module": "_1actions"
+  },
+  "BOARD_F": {
+   "zil": "BOARD-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 44,
+   "module": "_1actions"
+  },
+  "BOAT_LABEL": {
+   "zil": "BOAT-LABEL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 941,
+   "module": "_1dungeon"
+  },
+  "BODIES": {
+   "zil": "BODIES",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 688,
+   "module": "_1dungeon"
+  },
+  "BODY_FUNCTION": {
+   "zil": "BODY-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2178,
+   "module": "_1actions"
+  },
+  "BOLT": {
+   "zil": "BOLT",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 189,
+   "module": "_1dungeon"
+  },
+  "BOLT_F": {
+   "zil": "BOLT-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1187,
+   "module": "_1actions"
+  },
+  "BONES": {
+   "zil": "BONES",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 517,
+   "module": "_1dungeon"
+  },
+  "BOOK": {
+   "zil": "BOOK",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 212,
+   "module": "_1dungeon"
+  },
+  "BOOM_ROOM": {
+   "zil": "BOOM-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2446,
+   "module": "_1actions"
+  },
+  "BOTTLE": {
+   "zil": "BOTTLE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 443,
+   "module": "_1dungeon"
+  },
+  "BOTTLE_FUNCTION": {
+   "zil": "BOTTLE-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1491,
+   "module": "_1actions"
+  },
+  "BRACELET": {
+   "zil": "BRACELET",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 824,
+   "module": "_1dungeon"
+  },
+  "BREATHE": {
+   "zil": "BREATHE",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2817,
+   "module": "_1actions"
+  },
+  "BROKEN_CANARY": {
+   "zil": "BROKEN-CANARY",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1203,
+   "module": "_1dungeon"
+  },
+  "BROKEN_EGG": {
+   "zil": "BROKEN-EGG",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1171,
+   "module": "_1dungeon"
+  },
+  "BROKEN_LAMP": {
+   "zil": "BROKEN-LAMP",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 233,
+   "module": "_1dungeon"
+  },
+  "BROWN_BUTTON": {
+   "zil": "BROWN-BUTTON",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 314,
+   "module": "_1dungeon"
+  },
+  "BUBBLE": {
+   "zil": "BUBBLE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 197,
+   "module": "_1dungeon"
+  },
+  "BUBBLE_F": {
+   "zil": "BUBBLE-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1219,
+   "module": "_1actions"
+  },
+  "BUFFER_PRINT": {
+   "zil": "BUFFER-PRINT",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 819,
+   "module": "gparser"
+  },
+  "BUOY": {
+   "zil": "BUOY",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 782,
+   "module": "_1dungeon"
+  },
+  "BUOY_FLAG": {
+   "zil": "BUOY-FLAG",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2842,
+   "module": "_1actions"
+  },
+  "BURNED_OUT_LANTERN": {
+   "zil": "BURNED-OUT-LANTERN",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 524,
+   "module": "_1dungeon"
+  },
+  "BUTTON_F": {
+   "zil": "BUTTON-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1298,
+   "module": "_1actions"
+  },
+  "BUT_MERGE": {
+   "zil": "BUT-MERGE",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 945,
+   "module": "gparser"
+  },
+  "CAGE_TOP": {
+   "zil": "CAGE-TOP",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 275,
+   "module": "_1actions"
+  },
+  "CANARY": {
+   "zil": "CANARY",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1188,
+   "module": "_1dungeon"
+  },
+  "CANARY_OBJECT": {
+   "zil": "CANARY-OBJECT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2970,
+   "module": "_1actions"
+  },
+  "CANDLES": {
+   "zil": "CANDLES",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 670,
+   "module": "_1dungeon"
+  },
+  "CANDLES_FCN": {
+   "zil": "CANDLES-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2343,
+   "module": "_1actions"
+  },
+  "CANDLE_TABLE": {
+   "zil": "CANDLE-TABLE",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2406,
+   "module": "_1actions"
+  },
+  "CANT_ORPHAN": {
+   "zil": "CANT-ORPHAN",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 777,
+   "module": "gparser"
+  },
+  "CANT_USE": {
+   "zil": "CANT-USE",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 677,
+   "module": "gparser"
+  },
+  "CANYON_BOTTOM": {
+   "zil": "CANYON-BOTTOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2358,
+   "module": "_1dungeon"
+  },
+  "CANYON_VIEW": {
+   "zil": "CANYON-VIEW",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2384,
+   "module": "_1dungeon"
+  },
+  "CANYON_VIEW_F": {
+   "zil": "CANYON-VIEW-F",
+   "kind": "ROUTINE",
+   "file": "1dungeon.zil",
+   "line": 2406,
+   "module": "_1dungeon"
+  },
+  "CAVE2_ROOM": {
+   "zil": "CAVE2-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2416,
+   "module": "_1actions"
+  },
+  "CCOUNT": {
+   "zil": "CCOUNT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1979,
+   "module": "gverbs"
+  },
+  "CC_DBPTR": {
+   "zil": "CC-DBPTR",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 26,
+   "module": "gparser"
+  },
+  "CC_DEPTR": {
+   "zil": "CC-DEPTR",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 27,
+   "module": "gparser"
+  },
+  "CC_SBPTR": {
+   "zil": "CC-SBPTR",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 24,
+   "module": "gparser"
+  },
+  "CC_SEPTR": {
+   "zil": "CC-SEPTR",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 25,
+   "module": "gparser"
+  },
+  "CELLAR": {
+   "zil": "CELLAR",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1466,
+   "module": "_1dungeon"
+  },
+  "CELLAR_FCN": {
+   "zil": "CELLAR-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 531,
+   "module": "_1actions"
+  },
+  "CEXIT": {
+   "zil": "CEXIT",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2005,
+   "module": "gverbs"
+  },
+  "CEXITFLAG": {
+   "zil": "CEXITFLAG",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2010,
+   "module": "gverbs"
+  },
+  "CEXITSTR": {
+   "zil": "CEXITSTR",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2011,
+   "module": "gverbs"
+  },
+  "CHAIN_PSEUDO": {
+   "zil": "CHAIN-PSEUDO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4167,
+   "module": "_1actions"
+  },
+  "CHALICE": {
+   "zil": "CHALICE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 355,
+   "module": "_1dungeon"
+  },
+  "CHALICE_FCN": {
+   "zil": "CHALICE-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2123,
+   "module": "_1actions"
+  },
+  "CHASM_PSEUDO": {
+   "zil": "CHASM-PSEUDO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3191,
+   "module": "_1actions"
+  },
+  "CHASM_ROOM": {
+   "zil": "CHASM-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2008,
+   "module": "_1dungeon"
+  },
+  "CHIMNEY": {
+   "zil": "CHIMNEY",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 101,
+   "module": "_1dungeon"
+  },
+  "CHIMNEY_F": {
+   "zil": "CHIMNEY-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 545,
+   "module": "_1actions"
+  },
+  "CLAUSE": {
+   "zil": "CLAUSE",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 440,
+   "module": "gparser"
+  },
+  "CLAUSE_ADD": {
+   "zil": "CLAUSE-ADD",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 882,
+   "module": "gparser"
+  },
+  "CLAUSE_COPY": {
+   "zil": "CLAUSE-COPY",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 860,
+   "module": "gparser"
+  },
+  "CLEARING": {
+   "zil": "CLEARING",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1410,
+   "module": "_1dungeon"
+  },
+  "CLEARING_FCN": {
+   "zil": "CLEARING-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 815,
+   "module": "_1actions"
+  },
+  "CLIFF_MIDDLE": {
+   "zil": "CLIFF-MIDDLE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2370,
+   "module": "_1dungeon"
+  },
+  "CLIFF_OBJECT": {
+   "zil": "CLIFF-OBJECT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3015,
+   "module": "_1actions"
+  },
+  "CLIMBABLE_CLIFF": {
+   "zil": "CLIMBABLE-CLIFF",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1115,
+   "module": "_1dungeon"
+  },
+  "CLOCKER": {
+   "zil": "CLOCKER",
+   "kind": "ROUTINE",
+   "file": "gclock.zil",
+   "line": 43,
+   "module": "gclock"
+  },
+  "CLOCK_WAIT": {
+   "zil": "CLOCK-WAIT",
+   "kind": "GLOBAL",
+   "file": "gclock.zil",
+   "line": 41,
+   "module": "gclock"
+  },
+  "COAL": {
+   "zil": "COAL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 856,
+   "module": "_1dungeon"
+  },
+  "COFFIN": {
+   "zil": "COFFIN",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 461,
+   "module": "_1dungeon"
+  },
+  "COFFIN_CURE": {
+   "zil": "COFFIN-CURE",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1235,
+   "module": "_1dungeon"
+  },
+  "COLD_PASSAGE": {
+   "zil": "COLD-PASSAGE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1883,
+   "module": "_1dungeon"
+  },
+  "CONTROL_PANEL": {
+   "zil": "CONTROL-PANEL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1138,
+   "module": "_1dungeon"
+  },
+  "CRACK": {
+   "zil": "CRACK",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 453,
+   "module": "_1dungeon"
+  },
+  "CRACK_FCN": {
+   "zil": "CRACK-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 381,
+   "module": "_1actions"
+  },
+  "CRETIN_FCN": {
+   "zil": "CRETIN-FCN",
+   "kind": "ROUTINE",
+   "file": "gglobals.zil",
+   "line": 221,
+   "module": "gglobals"
+  },
+  "CURE_WAIT": {
+   "zil": "CURE-WAIT",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3325,
+   "module": "_1actions"
+  },
+  "CYCLOMAD": {
+   "zil": "CYCLOMAD",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1644,
+   "module": "_1actions"
+  },
+  "CYCLOPS": {
+   "zil": "CYCLOPS",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 387,
+   "module": "_1dungeon"
+  },
+  "CYCLOPS_FCN": {
+   "zil": "CYCLOPS-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1515,
+   "module": "_1actions"
+  },
+  "CYCLOPS_FLAG": {
+   "zil": "CYCLOPS-FLAG",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1225,
+   "module": "_1dungeon"
+  },
+  "CYCLOPS_MELEE": {
+   "zil": "CYCLOPS-MELEE",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3654,
+   "module": "_1actions"
+  },
+  "CYCLOPS_ROOM": {
+   "zil": "CYCLOPS-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1728,
+   "module": "_1dungeon"
+  },
+  "CYCLOPS_ROOM_FCN": {
+   "zil": "CYCLOPS-ROOM-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1616,
+   "module": "_1actions"
+  },
+  "CYCLOWRATH": {
+   "zil": "CYCLOWRATH",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1513,
+   "module": "_1actions"
+  },
+  "C_DEMONS": {
+   "zil": "C-DEMONS",
+   "kind": "GLOBAL",
+   "file": "gclock.zil",
+   "line": 9,
+   "module": "gclock"
+  },
+  "C_DISABLED": {
+   "zil": "C-DISABLED",
+   "kind": "SETG",
+   "file": "gmacros.zil",
+   "line": 7,
+   "module": "gmacros"
+  },
+  "C_ENABLED": {
+   "zil": "C-ENABLED",
+   "kind": "SETG",
+   "file": "gmacros.zil",
+   "line": 6,
+   "module": "gmacros"
+  },
+  "C_ENABLED_p": {
+   "zil": "C-ENABLED?",
+   "kind": "SETG",
+   "file": "gmacros.zil",
+   "line": 5,
+   "module": "gmacros",
+   "redefined": [
+    {
+     "kind": "CONSTANT",
+     "file": "gclock.zil",
+     "line": 15,
+     "module": "gclock"
+    }
+   ]
+  },
+  "C_INTLEN": {
+   "zil": "C-INTLEN",
+   "kind": "CONSTANT",
+   "file": "gclock.zil",
+   "line": 13,
+   "module": "gclock"
+  },
+  "C_INTS": {
+   "zil": "C-INTS",
+   "kind": "GLOBAL",
+   "file": "gclock.zil",
+   "line": 11,
+   "module": "gclock"
+  },
+  "C_RTN": {
+   "zil": "C-RTN",
+   "kind": "CONSTANT",
+   "file": "gclock.zil",
+   "line": 19,
+   "module": "gclock"
+  },
+  "C_TABLE": {
+   "zil": "C-TABLE",
+   "kind": "GLOBAL",
+   "file": "gclock.zil",
+   "line": 7,
+   "module": "gclock"
+  },
+  "C_TABLELEN": {
+   "zil": "C-TABLELEN",
+   "kind": "CONSTANT",
+   "file": "gclock.zil",
+   "line": 5,
+   "module": "gclock"
+  },
+  "C_TICK": {
+   "zil": "C-TICK",
+   "kind": "CONSTANT",
+   "file": "gclock.zil",
+   "line": 17,
+   "module": "gclock"
+  },
+  "DAM": {
+   "zil": "DAM",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 396,
+   "module": "_1dungeon"
+  },
+  "DAMP_CAVE": {
+   "zil": "DAMP-CAVE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1976,
+   "module": "_1dungeon"
+  },
+  "DAM_BASE": {
+   "zil": "DAM-BASE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2176,
+   "module": "_1dungeon"
+  },
+  "DAM_FUNCTION": {
+   "zil": "DAM-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1400,
+   "module": "_1actions"
+  },
+  "DAM_LOBBY": {
+   "zil": "DAM-LOBBY",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2147,
+   "module": "_1dungeon"
+  },
+  "DAM_ROOM": {
+   "zil": "DAM-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2135,
+   "module": "_1dungeon"
+  },
+  "DAM_ROOM_FCN": {
+   "zil": "DAM-ROOM-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1156,
+   "module": "_1actions"
+  },
+  "DBOAT_FUNCTION": {
+   "zil": "DBOAT-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2652,
+   "module": "_1actions"
+  },
+  "DD_APPLY": {
+   "zil": "DD-APPLY",
+   "kind": "ROUTINE",
+   "file": "gmain.zil",
+   "line": 309,
+   "module": "gmain"
+  },
+  "DEAD": {
+   "zil": "DEAD",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1882,
+   "module": "gverbs"
+  },
+  "DEAD_END_1": {
+   "zil": "DEAD-END-1",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1575,
+   "module": "_1dungeon"
+  },
+  "DEAD_END_2": {
+   "zil": "DEAD-END-2",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1592,
+   "module": "_1dungeon"
+  },
+  "DEAD_END_3": {
+   "zil": "DEAD-END-3",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1629,
+   "module": "_1dungeon"
+  },
+  "DEAD_END_4": {
+   "zil": "DEAD-END-4",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1688,
+   "module": "_1dungeon"
+  },
+  "DEAD_END_5": {
+   "zil": "DEAD-END-5",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2514,
+   "module": "_1dungeon"
+  },
+  "DEAD_FUNCTION": {
+   "zil": "DEAD-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3113,
+   "module": "_1actions"
+  },
+  "DEATHS": {
+   "zil": "DEATHS",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1884,
+   "module": "gverbs"
+  },
+  "DEEP_CANYON": {
+   "zil": "DEEP-CANYON",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1965,
+   "module": "_1dungeon"
+  },
+  "DEEP_CANYON_F": {
+   "zil": "DEEP-CANYON-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1730,
+   "module": "_1actions"
+  },
+  "DEF1": {
+   "zil": "DEF1",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3258,
+   "module": "_1actions"
+  },
+  "DEF1_RES": {
+   "zil": "DEF1-RES",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3301,
+   "module": "_1actions"
+  },
+  "DEF2A": {
+   "zil": "DEF2A",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3265,
+   "module": "_1actions"
+  },
+  "DEF2B": {
+   "zil": "DEF2B",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3272,
+   "module": "_1actions"
+  },
+  "DEF2_RES": {
+   "zil": "DEF2-RES",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3306,
+   "module": "_1actions"
+  },
+  "DEF3A": {
+   "zil": "DEF3A",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3280,
+   "module": "_1actions"
+  },
+  "DEF3B": {
+   "zil": "DEF3B",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3287,
+   "module": "_1actions"
+  },
+  "DEF3C": {
+   "zil": "DEF3C",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3294,
+   "module": "_1actions"
+  },
+  "DEF3_RES": {
+   "zil": "DEF3-RES",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3312,
+   "module": "_1actions"
+  },
+  "DEFLATE": {
+   "zil": "DEFLATE",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1226,
+   "module": "_1dungeon"
+  },
+  "DEPOSIT_BOOTY": {
+   "zil": "DEPOSIT-BOOTY",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1897,
+   "module": "_1actions"
+  },
+  "DESCRIBE_OBJECT": {
+   "zil": "DESCRIBE-OBJECT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1693,
+   "module": "gverbs"
+  },
+  "DESCRIBE_OBJECTS": {
+   "zil": "DESCRIBE-OBJECTS",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1681,
+   "module": "gverbs"
+  },
+  "DESCRIBE_ROOM": {
+   "zil": "DESCRIBE-ROOM",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1635,
+   "module": "gverbs"
+  },
+  "DESC_OBJECT": {
+   "zil": "DESC-OBJECT",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1691,
+   "module": "gverbs"
+  },
+  "DEXIT": {
+   "zil": "DEXIT",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2006,
+   "module": "gverbs"
+  },
+  "DEXITOBJ": {
+   "zil": "DEXITOBJ",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2012,
+   "module": "gverbs"
+  },
+  "DEXITSTR": {
+   "zil": "DEXITSTR",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2013,
+   "module": "gverbs"
+  },
+  "DIAMOND": {
+   "zil": "DIAMOND",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 488,
+   "module": "_1dungeon"
+  },
+  "DISABLE": {
+   "zil": "DISABLE",
+   "kind": "DEFMAC",
+   "file": "gmacros.zil",
+   "line": 143,
+   "module": "gmacros"
+  },
+  "DOME_FLAG": {
+   "zil": "DOME-FLAG",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1227,
+   "module": "_1dungeon"
+  },
+  "DOME_PSEUDO": {
+   "zil": "DOME-PSEUDO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3203,
+   "module": "_1actions"
+  },
+  "DOME_ROOM": {
+   "zil": "DOME-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2077,
+   "module": "_1dungeon"
+  },
+  "DOME_ROOM_FCN": {
+   "zil": "DOME-ROOM-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1030,
+   "module": "_1actions"
+  },
+  "DOOR_PSEUDO": {
+   "zil": "DOOR-PSEUDO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3216,
+   "module": "_1actions"
+  },
+  "DO_FIGHT": {
+   "zil": "DO-FIGHT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3331,
+   "module": "_1actions"
+  },
+  "DO_SL": {
+   "zil": "DO-SL",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1202,
+   "module": "gparser"
+  },
+  "DO_WALK": {
+   "zil": "DO-WALK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2148,
+   "module": "gverbs"
+  },
+  "DROP_JUNK": {
+   "zil": "DROP-JUNK",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3933,
+   "module": "_1actions"
+  },
+  "DROWNINGS": {
+   "zil": "DROWNINGS",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1284,
+   "module": "_1actions"
+  },
+  "DUMB_CONTAINER": {
+   "zil": "DUMB-CONTAINER",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4154,
+   "module": "_1actions"
+  },
+  "DUMMY": {
+   "zil": "DUMMY",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 2213,
+   "module": "gverbs"
+  },
+  "D_APPLY": {
+   "zil": "D-APPLY",
+   "kind": "DEFINE",
+   "file": "gmain.zil",
+   "line": 290,
+   "module": "gmain"
+  },
+  "EAST_HOUSE": {
+   "zil": "EAST-HOUSE",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 17,
+   "module": "_1actions"
+  },
+  "EAST_OF_CHASM": {
+   "zil": "EAST-OF-CHASM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1494,
+   "module": "_1dungeon"
+  },
+  "EAST_OF_HOUSE": {
+   "zil": "EAST-OF-HOUSE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1295,
+   "module": "_1dungeon"
+  },
+  "EGG": {
+   "zil": "EGG",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1154,
+   "module": "_1dungeon"
+  },
+  "EGG_OBJECT": {
+   "zil": "EGG-OBJECT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2919,
+   "module": "_1actions"
+  },
+  "EGG_SOLVE": {
+   "zil": "EGG-SOLVE",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1748,
+   "module": "_1actions"
+  },
+  "EGYPT_ROOM": {
+   "zil": "EGYPT-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2066,
+   "module": "_1dungeon"
+  },
+  "EMERALD": {
+   "zil": "EMERALD",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 556,
+   "module": "_1dungeon"
+  },
+  "EMPTY_HANDED": {
+   "zil": "EMPTY-HANDED",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1228,
+   "module": "_1dungeon"
+  },
+  "END_OF_RAINBOW": {
+   "zil": "END-OF-RAINBOW",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2342,
+   "module": "_1dungeon"
+  },
+  "ENGRAVINGS": {
+   "zil": "ENGRAVINGS",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1085,
+   "module": "_1dungeon"
+  },
+  "ENGRAVINGS_CAVE": {
+   "zil": "ENGRAVINGS-CAVE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2057,
+   "module": "_1dungeon"
+  },
+  "ENTRANCE_TO_HADES": {
+   "zil": "ENTRANCE-TO-HADES",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2027,
+   "module": "_1dungeon"
+  },
+  "EW_PASSAGE": {
+   "zil": "EW-PASSAGE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1938,
+   "module": "_1dungeon"
+  },
+  "FALLS_ROOM": {
+   "zil": "FALLS-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2621,
+   "module": "_1actions"
+  },
+  "FALSE_FLAG": {
+   "zil": "FALSE-FLAG",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 9,
+   "module": "_1dungeon"
+  },
+  "FEXIT": {
+   "zil": "FEXIT",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2004,
+   "module": "gverbs"
+  },
+  "FEXITFCN": {
+   "zil": "FEXITFCN",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2009,
+   "module": "gverbs"
+  },
+  "FIGHT_STRENGTH": {
+   "zil": "FIGHT-STRENGTH",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3375,
+   "module": "_1actions"
+  },
+  "FIND_IN": {
+   "zil": "FIND-IN",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2156,
+   "module": "gverbs"
+  },
+  "FIND_WEAPON": {
+   "zil": "FIND-WEAPON",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3401,
+   "module": "_1actions"
+  },
+  "FINISH": {
+   "zil": "FINISH",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 33,
+   "module": "gverbs"
+  },
+  "FIRSTER": {
+   "zil": "FIRSTER",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1818,
+   "module": "gverbs"
+  },
+  "FIX_BOAT": {
+   "zil": "FIX-BOAT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2664,
+   "module": "_1actions"
+  },
+  "FIX_MAINT_LEAK": {
+   "zil": "FIX-MAINT-LEAK",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1372,
+   "module": "_1actions"
+  },
+  "FLY_ME": {
+   "zil": "FLY-ME",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 317,
+   "module": "_1actions"
+  },
+  "FOREST": {
+   "zil": "FOREST",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 56,
+   "module": "_1dungeon"
+  },
+  "FOREST_1": {
+   "zil": "FOREST-1",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1309,
+   "module": "_1dungeon"
+  },
+  "FOREST_2": {
+   "zil": "FOREST-2",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1324,
+   "module": "_1dungeon"
+  },
+  "FOREST_3": {
+   "zil": "FOREST-3",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1349,
+   "module": "_1dungeon"
+  },
+  "FOREST_AROUND": {
+   "zil": "FOREST-AROUND",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 2624,
+   "module": "_1dungeon"
+  },
+  "FOREST_F": {
+   "zil": "FOREST-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 136,
+   "module": "_1actions"
+  },
+  "FOREST_ROOM": {
+   "zil": "FOREST-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3004,
+   "module": "_1actions"
+  },
+  "FOREST_ROOM_p": {
+   "zil": "FOREST-ROOM?",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2992,
+   "module": "_1actions"
+  },
+  "FRONT_DOOR": {
+   "zil": "FRONT-DOOR",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 419,
+   "module": "_1dungeon"
+  },
+  "FRONT_DOOR_FCN": {
+   "zil": "FRONT-DOOR-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2163,
+   "module": "_1actions"
+  },
+  "FUMBLE_NUMBER": {
+   "zil": "FUMBLE-NUMBER",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1896,
+   "module": "gverbs"
+  },
+  "FUMBLE_PROB": {
+   "zil": "FUMBLE-PROB",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1898,
+   "module": "gverbs"
+  },
+  "FWEEP": {
+   "zil": "FWEEP",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 326,
+   "module": "_1actions"
+  },
+  "F_BUSY_p": {
+   "zil": "F-BUSY?",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3236,
+   "module": "_1actions"
+  },
+  "F_CONSCIOUS": {
+   "zil": "F-CONSCIOUS",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3239,
+   "module": "_1actions"
+  },
+  "F_DEAD": {
+   "zil": "F-DEAD",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3237,
+   "module": "_1actions"
+  },
+  "F_DEF": {
+   "zil": "F-DEF",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3609,
+   "module": "_1actions"
+  },
+  "F_FIRST_p": {
+   "zil": "F-FIRST?",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3240,
+   "module": "_1actions"
+  },
+  "F_UNCONSCIOUS": {
+   "zil": "F-UNCONSCIOUS",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3238,
+   "module": "_1actions"
+  },
+  "F_WEP": {
+   "zil": "F-WEP",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3608,
+   "module": "_1actions"
+  },
+  "GALLERY": {
+   "zil": "GALLERY",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1507,
+   "module": "_1dungeon"
+  },
+  "GARLIC": {
+   "zil": "GARLIC",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 368,
+   "module": "_1dungeon"
+  },
+  "GARLIC_F": {
+   "zil": "GARLIC-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4160,
+   "module": "_1actions"
+  },
+  "GAS_PSEUDO": {
+   "zil": "GAS-PSEUDO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3226,
+   "module": "_1actions"
+  },
+  "GAS_ROOM": {
+   "zil": "GAS-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2476,
+   "module": "_1dungeon"
+  },
+  "GATES_OPEN": {
+   "zil": "GATES-OPEN",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1154,
+   "module": "_1actions"
+  },
+  "GATE_FLAG": {
+   "zil": "GATE-FLAG",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1153,
+   "module": "_1actions"
+  },
+  "GATE_PSEUDO": {
+   "zil": "GATE-PSEUDO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3207,
+   "module": "_1actions"
+  },
+  "GET_OBJECT": {
+   "zil": "GET-OBJECT",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1040,
+   "module": "gparser"
+  },
+  "GHOSTS": {
+   "zil": "GHOSTS",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 109,
+   "module": "_1dungeon"
+  },
+  "GHOSTS_F": {
+   "zil": "GHOSTS-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 264,
+   "module": "_1actions"
+  },
+  "GLOBAL_CHECK": {
+   "zil": "GLOBAL-CHECK",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1169,
+   "module": "gparser"
+  },
+  "GLOBAL_IN_p": {
+   "zil": "GLOBAL-IN?",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2152,
+   "module": "gverbs"
+  },
+  "GLOBAL_OBJECTS": {
+   "zil": "GLOBAL-OBJECTS",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 7,
+   "module": "gglobals"
+  },
+  "GLOBAL_WATER": {
+   "zil": "GLOBAL-WATER",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 78,
+   "module": "_1dungeon"
+  },
+  "GO": {
+   "zil": "GO",
+   "kind": "ROUTINE",
+   "file": "1dungeon.zil",
+   "line": 2637,
+   "module": "_1dungeon"
+  },
+  "GOTO": {
+   "zil": "GOTO",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2045,
+   "module": "gverbs"
+  },
+  "GO_NEXT": {
+   "zil": "GO-NEXT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 131,
+   "module": "_1actions"
+  },
+  "GRANITE_WALL": {
+   "zil": "GRANITE-WALL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 33,
+   "module": "_1dungeon"
+  },
+  "GRANITE_WALL_F": {
+   "zil": "GRANITE-WALL-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 64,
+   "module": "_1actions"
+  },
+  "GRATE": {
+   "zil": "GRATE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 474,
+   "module": "_1dungeon"
+  },
+  "GRATE_FUNCTION": {
+   "zil": "GRATE-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 850,
+   "module": "_1actions"
+  },
+  "GRATE_REVEALED": {
+   "zil": "GRATE-REVEALED",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 771,
+   "module": "_1actions"
+  },
+  "GRATING_CLEARING": {
+   "zil": "GRATING-CLEARING",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1388,
+   "module": "_1dungeon"
+  },
+  "GRATING_EXIT": {
+   "zil": "GRATING-EXIT",
+   "kind": "ROUTINE",
+   "file": "1dungeon.zil",
+   "line": 1400,
+   "module": "_1dungeon"
+  },
+  "GRATING_ROOM": {
+   "zil": "GRATING-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1667,
+   "module": "_1dungeon"
+  },
+  "GROUND": {
+   "zil": "GROUND",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 164,
+   "module": "gglobals"
+  },
+  "GROUND_FUNCTION": {
+   "zil": "GROUND-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "gglobals.zil",
+   "line": 170,
+   "module": "gglobals"
+  },
+  "GRUE": {
+   "zil": "GRUE",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 184,
+   "module": "gglobals"
+  },
+  "GRUE_FUNCTION": {
+   "zil": "GRUE-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "gglobals.zil",
+   "line": 191,
+   "module": "gglobals"
+  },
+  "GRUNLOCK": {
+   "zil": "GRUNLOCK",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 772,
+   "module": "_1actions"
+  },
+  "GUIDE": {
+   "zil": "GUIDE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1001,
+   "module": "_1dungeon"
+  },
+  "GUNK": {
+   "zil": "GUNK",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 680,
+   "module": "_1dungeon"
+  },
+  "GUNK_FUNCTION": {
+   "zil": "GUNK-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2553,
+   "module": "_1actions"
+  },
+  "GWIM": {
+   "zil": "GWIM",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 901,
+   "module": "gparser"
+  },
+  "HACK_HACK": {
+   "zil": "HACK-HACK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2024,
+   "module": "gverbs"
+  },
+  "HACK_TREASURES": {
+   "zil": "HACK-TREASURES",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1888,
+   "module": "_1actions"
+  },
+  "HANDS": {
+   "zil": "HANDS",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 304,
+   "module": "gglobals"
+  },
+  "HELD_p": {
+   "zil": "HELD?",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2167,
+   "module": "gverbs"
+  },
+  "HELLOS": {
+   "zil": "HELLOS",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 2198,
+   "module": "gverbs"
+  },
+  "HERE": {
+   "zil": "HERE",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 31,
+   "module": "gparser"
+  },
+  "HERO_BLOW": {
+   "zil": "HERO-BLOW",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3476,
+   "module": "_1actions"
+  },
+  "HERO_MELEE": {
+   "zil": "HERO-MELEE",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3611,
+   "module": "_1actions"
+  },
+  "HESITATE": {
+   "zil": "HESITATE",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3253,
+   "module": "_1actions"
+  },
+  "HIT_SPOT": {
+   "zil": "HIT-SPOT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 518,
+   "module": "gverbs"
+  },
+  "HOT_BELL": {
+   "zil": "HOT-BELL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 172,
+   "module": "_1dungeon"
+  },
+  "HOT_BELL_F": {
+   "zil": "HOT-BELL-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 351,
+   "module": "_1actions"
+  },
+  "HOUSE_AROUND": {
+   "zil": "HOUSE-AROUND",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 2620,
+   "module": "_1dungeon"
+  },
+  "HO_HUM": {
+   "zil": "HO-HUM",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 2031,
+   "module": "gverbs"
+  },
+  "HS": {
+   "zil": "HS",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 722,
+   "module": "gverbs"
+  },
+  "IBOAT_FUNCTION": {
+   "zil": "IBOAT-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2820,
+   "module": "_1actions"
+  },
+  "IDROP": {
+   "zil": "IDROP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1966,
+   "module": "gverbs"
+  },
+  "INBUF_ADD": {
+   "zil": "INBUF-ADD",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 410,
+   "module": "gparser"
+  },
+  "INBUF_STUFF": {
+   "zil": "INBUF-STUFF",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 402,
+   "module": "gparser"
+  },
+  "INDENTS": {
+   "zil": "INDENTS",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 2015,
+   "module": "gverbs"
+  },
+  "INFESTED_p": {
+   "zil": "INFESTED?",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3881,
+   "module": "_1actions"
+  },
+  "INFLATABLE_BOAT": {
+   "zil": "INFLATABLE-BOAT",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 713,
+   "module": "_1dungeon"
+  },
+  "INFLATED_BOAT": {
+   "zil": "INFLATED-BOAT",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 595,
+   "module": "_1dungeon"
+  },
+  "INT": {
+   "zil": "INT",
+   "kind": "ROUTINE",
+   "file": "gclock.zil",
+   "line": 26,
+   "module": "gclock"
+  },
+  "INTEGRAL_PART": {
+   "zil": "INTEGRAL-PART",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1223,
+   "module": "_1actions"
+  },
+  "INTNUM": {
+   "zil": "INTNUM",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 31,
+   "module": "gglobals"
+  },
+  "IN_HOUSE_AROUND": {
+   "zil": "IN-HOUSE-AROUND",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 2627,
+   "module": "_1dungeon"
+  },
+  "IN_STREAM": {
+   "zil": "IN-STREAM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1819,
+   "module": "_1dungeon"
+  },
+  "IT": {
+   "zil": "IT",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 42,
+   "module": "gglobals"
+  },
+  "ITAKE": {
+   "zil": "ITAKE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1900,
+   "module": "gverbs"
+  },
+  "ITAKE_CHECK": {
+   "zil": "ITAKE-CHECK",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1248,
+   "module": "gparser"
+  },
+  "I_CANDLES": {
+   "zil": "I-CANDLES",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2321,
+   "module": "_1actions"
+  },
+  "I_CURE": {
+   "zil": "I-CURE",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3593,
+   "module": "_1actions"
+  },
+  "I_CYCLOPS": {
+   "zil": "I-CYCLOPS",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1596,
+   "module": "_1actions"
+  },
+  "I_FIGHT": {
+   "zil": "I-FIGHT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3810,
+   "module": "_1actions"
+  },
+  "I_FOREST_ROOM": {
+   "zil": "I-FOREST-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2996,
+   "module": "_1actions"
+  },
+  "I_LANTERN": {
+   "zil": "I-LANTERN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2315,
+   "module": "_1actions"
+  },
+  "I_MAINT_ROOM": {
+   "zil": "I-MAINT-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1343,
+   "module": "_1actions"
+  },
+  "I_MATCH": {
+   "zil": "I-MATCH",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2308,
+   "module": "_1actions"
+  },
+  "I_REMPTY": {
+   "zil": "I-REMPTY",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1263,
+   "module": "_1actions"
+  },
+  "I_RFILL": {
+   "zil": "I-RFILL",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1226,
+   "module": "_1actions"
+  },
+  "I_RIVER": {
+   "zil": "I-RIVER",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2708,
+   "module": "_1actions"
+  },
+  "I_SWORD": {
+   "zil": "I-SWORD",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3851,
+   "module": "_1actions"
+  },
+  "I_THIEF": {
+   "zil": "I-THIEF",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3890,
+   "module": "_1actions"
+  },
+  "I_XB": {
+   "zil": "I-XB",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1131,
+   "module": "_1actions"
+  },
+  "I_XBH": {
+   "zil": "I-XBH",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1143,
+   "module": "_1actions"
+  },
+  "I_XC": {
+   "zil": "I-XC",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1139,
+   "module": "_1actions"
+  },
+  "JADE": {
+   "zil": "JADE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 497,
+   "module": "_1dungeon"
+  },
+  "JIGS_UP": {
+   "zil": "JIGS-UP",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4046,
+   "module": "_1actions"
+  },
+  "JUMPLOSS": {
+   "zil": "JUMPLOSS",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 844,
+   "module": "gverbs"
+  },
+  "KEYS": {
+   "zil": "KEYS",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 841,
+   "module": "_1dungeon"
+  },
+  "KILLED": {
+   "zil": "KILLED",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3248,
+   "module": "_1actions"
+  },
+  "KILL_INTERRUPTS": {
+   "zil": "KILL-INTERRUPTS",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4125,
+   "module": "_1actions"
+  },
+  "KITCHEN": {
+   "zil": "KITCHEN",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1429,
+   "module": "_1dungeon"
+  },
+  "KITCHEN_FCN": {
+   "zil": "KITCHEN-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 385,
+   "module": "_1actions"
+  },
+  "KITCHEN_TABLE": {
+   "zil": "KITCHEN-TABLE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 271,
+   "module": "_1dungeon"
+  },
+  "KITCHEN_WINDOW": {
+   "zil": "KITCHEN-WINDOW",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 93,
+   "module": "_1dungeon"
+  },
+  "KITCHEN_WINDOW_F": {
+   "zil": "KITCHEN-WINDOW-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 241,
+   "module": "_1actions"
+  },
+  "KITCHEN_WINDOW_FLAG": {
+   "zil": "KITCHEN-WINDOW-FLAG",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 239,
+   "module": "_1actions"
+  },
+  "KNIFE": {
+   "zil": "KNIFE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 508,
+   "module": "_1dungeon"
+  },
+  "KNIFE_F": {
+   "zil": "KNIFE-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 926,
+   "module": "_1actions"
+  },
+  "LADDER": {
+   "zil": "LADDER",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 864,
+   "module": "_1dungeon"
+  },
+  "LADDER_BOTTOM": {
+   "zil": "LADDER-BOTTOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2501,
+   "module": "_1dungeon"
+  },
+  "LADDER_TOP": {
+   "zil": "LADDER-TOP",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2489,
+   "module": "_1dungeon"
+  },
+  "LAKE_PSEUDO": {
+   "zil": "LAKE-PSEUDO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3177,
+   "module": "_1actions"
+  },
+  "LAMP": {
+   "zil": "LAMP",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 545,
+   "module": "_1dungeon"
+  },
+  "LAMP_TABLE": {
+   "zil": "LAMP-TABLE",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2220,
+   "module": "_1actions"
+  },
+  "LAND_OF_LIVING_DEAD": {
+   "zil": "LAND-OF-LIVING-DEAD",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2040,
+   "module": "_1dungeon"
+  },
+  "LANTERN": {
+   "zil": "LANTERN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2230,
+   "module": "_1actions"
+  },
+  "LARGE_BAG": {
+   "zil": "LARGE-BAG",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 881,
+   "module": "_1dungeon"
+  },
+  "LARGE_BAG_F": {
+   "zil": "LARGE-BAG-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2094,
+   "module": "_1actions"
+  },
+  "LEAF_PILE": {
+   "zil": "LEAF-PILE",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 786,
+   "module": "_1actions"
+  },
+  "LEAK": {
+   "zil": "LEAK",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 580,
+   "module": "_1dungeon"
+  },
+  "LEAK_FUNCTION": {
+   "zil": "LEAK-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1362,
+   "module": "_1actions"
+  },
+  "LEAVES": {
+   "zil": "LEAVES",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 696,
+   "module": "_1dungeon"
+  },
+  "LEAVES_APPEAR": {
+   "zil": "LEAVES-APPEAR",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 774,
+   "module": "_1actions"
+  },
+  "LIGHT_INT": {
+   "zil": "LIGHT-INT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2328,
+   "module": "_1actions"
+  },
+  "LIGHT_SHAFT": {
+   "zil": "LIGHT-SHAFT",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2578,
+   "module": "_1actions"
+  },
+  "LIGHT_WOUND": {
+   "zil": "LIGHT-WOUND",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3249,
+   "module": "_1actions"
+  },
+  "LIT": {
+   "zil": "LIT",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1626,
+   "module": "gverbs"
+  },
+  "LIT_p": {
+   "zil": "LIT?",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1333,
+   "module": "gparser"
+  },
+  "LIVING_ROOM": {
+   "zil": "LIVING-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1451,
+   "module": "_1dungeon"
+  },
+  "LIVING_ROOM_FCN": {
+   "zil": "LIVING-ROOM-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 449,
+   "module": "_1actions"
+  },
+  "LKP": {
+   "zil": "LKP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2139,
+   "module": "gverbs"
+  },
+  "LLD_FLAG": {
+   "zil": "LLD-FLAG",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1229,
+   "module": "_1dungeon"
+  },
+  "LLD_ROOM": {
+   "zil": "LLD-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1058,
+   "module": "_1actions"
+  },
+  "LOAD_ALLOWED": {
+   "zil": "LOAD-ALLOWED",
+   "kind": "GLOBAL",
+   "file": "gglobals.zil",
+   "line": 94,
+   "module": "gglobals"
+  },
+  "LOAD_MAX": {
+   "zil": "LOAD-MAX",
+   "kind": "GLOBAL",
+   "file": "gglobals.zil",
+   "line": 92,
+   "module": "gglobals"
+  },
+  "LOCAL_GLOBALS": {
+   "zil": "LOCAL-GLOBALS",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 12,
+   "module": "gglobals"
+  },
+  "LOSE_WEAPON": {
+   "zil": "LOSE-WEAPON",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3252,
+   "module": "_1actions"
+  },
+  "LOUD_FLAG": {
+   "zil": "LOUD-FLAG",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1658,
+   "module": "_1actions"
+  },
+  "LOUD_ROOM": {
+   "zil": "LOUD-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1988,
+   "module": "_1dungeon"
+  },
+  "LOUD_ROOM_FCN": {
+   "zil": "LOUD-ROOM-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1660,
+   "module": "_1actions"
+  },
+  "LOUD_RUNS": {
+   "zil": "LOUD-RUNS",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1261,
+   "module": "_1actions"
+  },
+  "LOWERED_BASKET": {
+   "zil": "LOWERED-BASKET",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 129,
+   "module": "_1dungeon"
+  },
+  "LOWER_SHAFT": {
+   "zil": "LOWER-SHAFT",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2536,
+   "module": "_1dungeon"
+  },
+  "LOW_TIDE": {
+   "zil": "LOW-TIDE",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1230,
+   "module": "_1dungeon"
+  },
+  "LUCKY": {
+   "zil": "LUCKY",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1886,
+   "module": "gverbs",
+   "redefined": [
+    {
+     "kind": "GLOBAL",
+     "file": "1actions.zil",
+     "line": 969,
+     "module": "_1actions"
+    }
+   ]
+  },
+  "LUNCH": {
+   "zil": "LUNCH",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 147,
+   "module": "_1dungeon"
+  },
+  "LUNGS": {
+   "zil": "LUNGS",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 208,
+   "module": "gglobals"
+  },
+  "MACHINE": {
+   "zil": "MACHINE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 587,
+   "module": "_1dungeon"
+  },
+  "MACHINE_F": {
+   "zil": "MACHINE-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2502,
+   "module": "_1actions"
+  },
+  "MACHINE_ROOM": {
+   "zil": "MACHINE-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2554,
+   "module": "_1dungeon"
+  },
+  "MACHINE_ROOM_FCN": {
+   "zil": "MACHINE-ROOM-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2488,
+   "module": "_1actions"
+  },
+  "MACHINE_SWITCH": {
+   "zil": "MACHINE-SWITCH",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 898,
+   "module": "_1dungeon"
+  },
+  "MAGIC_FLAG": {
+   "zil": "MAGIC-FLAG",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1231,
+   "module": "_1dungeon"
+  },
+  "MAILBOX": {
+   "zil": "MAILBOX",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 605,
+   "module": "_1dungeon"
+  },
+  "MAILBOX_F": {
+   "zil": "MAILBOX-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2259,
+   "module": "_1actions"
+  },
+  "MAINTENANCE_ROOM": {
+   "zil": "MAINTENANCE-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2159,
+   "module": "_1dungeon"
+  },
+  "MAIN_LOOP": {
+   "zil": "MAIN-LOOP",
+   "kind": "ROUTINE",
+   "file": "gmain.zil",
+   "line": 34,
+   "module": "gmain"
+  },
+  "MAIN_LOOP_1": {
+   "zil": "MAIN-LOOP-1",
+   "kind": "ROUTINE",
+   "file": "gmain.zil",
+   "line": 38,
+   "module": "gmain"
+  },
+  "MANY_CHECK": {
+   "zil": "MANY-CHECK",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1294,
+   "module": "gparser"
+  },
+  "MAP": {
+   "zil": "MAP",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 927,
+   "module": "_1dungeon"
+  },
+  "MATCH": {
+   "zil": "MATCH",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 614,
+   "module": "_1dungeon"
+  },
+  "MATCH_COUNT": {
+   "zil": "MATCH-COUNT",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2263,
+   "module": "_1actions"
+  },
+  "MATCH_FUNCTION": {
+   "zil": "MATCH-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2265,
+   "module": "_1actions"
+  },
+  "MAZE_1": {
+   "zil": "MAZE-1",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1538,
+   "module": "_1dungeon"
+  },
+  "MAZE_10": {
+   "zil": "MAZE-10",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1648,
+   "module": "_1dungeon"
+  },
+  "MAZE_11": {
+   "zil": "MAZE-11",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1657,
+   "module": "_1dungeon"
+  },
+  "MAZE_11_FCN": {
+   "zil": "MAZE-11-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 833,
+   "module": "_1actions"
+  },
+  "MAZE_12": {
+   "zil": "MAZE-12",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1677,
+   "module": "_1dungeon"
+  },
+  "MAZE_13": {
+   "zil": "MAZE-13",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1695,
+   "module": "_1dungeon"
+  },
+  "MAZE_14": {
+   "zil": "MAZE-14",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1705,
+   "module": "_1dungeon"
+  },
+  "MAZE_15": {
+   "zil": "MAZE-15",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1715,
+   "module": "_1dungeon"
+  },
+  "MAZE_2": {
+   "zil": "MAZE-2",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1548,
+   "module": "_1dungeon"
+  },
+  "MAZE_3": {
+   "zil": "MAZE-3",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1557,
+   "module": "_1dungeon"
+  },
+  "MAZE_4": {
+   "zil": "MAZE-4",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1566,
+   "module": "_1dungeon"
+  },
+  "MAZE_5": {
+   "zil": "MAZE-5",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1582,
+   "module": "_1dungeon"
+  },
+  "MAZE_6": {
+   "zil": "MAZE-6",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1599,
+   "module": "_1dungeon"
+  },
+  "MAZE_7": {
+   "zil": "MAZE-7",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1609,
+   "module": "_1dungeon"
+  },
+  "MAZE_8": {
+   "zil": "MAZE-8",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1620,
+   "module": "_1dungeon"
+  },
+  "MAZE_9": {
+   "zil": "MAZE-9",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1636,
+   "module": "_1dungeon"
+  },
+  "MAZE_DIODES": {
+   "zil": "MAZE-DIODES",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 898,
+   "module": "_1actions"
+  },
+  "ME": {
+   "zil": "ME",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 214,
+   "module": "gglobals"
+  },
+  "META_LOC": {
+   "zil": "META-LOC",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1398,
+   "module": "gparser"
+  },
+  "MIN": {
+   "zil": "MIN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2339,
+   "module": "_1actions"
+  },
+  "MINE_1": {
+   "zil": "MINE-1",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2565,
+   "module": "_1dungeon"
+  },
+  "MINE_2": {
+   "zil": "MINE-2",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2574,
+   "module": "_1dungeon"
+  },
+  "MINE_3": {
+   "zil": "MINE-3",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2583,
+   "module": "_1dungeon"
+  },
+  "MINE_4": {
+   "zil": "MINE-4",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2592,
+   "module": "_1dungeon"
+  },
+  "MINE_ENTRANCE": {
+   "zil": "MINE-ENTRANCE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2418,
+   "module": "_1dungeon"
+  },
+  "MIRROR_1": {
+   "zil": "MIRROR-1",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 648,
+   "module": "_1dungeon"
+  },
+  "MIRROR_2": {
+   "zil": "MIRROR-2",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 641,
+   "module": "_1dungeon"
+  },
+  "MIRROR_MIRROR": {
+   "zil": "MIRROR-MIRROR",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 971,
+   "module": "_1actions"
+  },
+  "MIRROR_MUNG": {
+   "zil": "MIRROR-MUNG",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 968,
+   "module": "_1actions"
+  },
+  "MIRROR_ROOM": {
+   "zil": "MIRROR-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 958,
+   "module": "_1actions"
+  },
+  "MIRROR_ROOM_1": {
+   "zil": "MIRROR-ROOM-1",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1839,
+   "module": "_1dungeon"
+  },
+  "MIRROR_ROOM_2": {
+   "zil": "MIRROR-ROOM-2",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1848,
+   "module": "_1dungeon"
+  },
+  "MISSED": {
+   "zil": "MISSED",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3246,
+   "module": "_1actions"
+  },
+  "MOUNTAINS": {
+   "zil": "MOUNTAINS",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1337,
+   "module": "_1dungeon"
+  },
+  "MOUNTAIN_RANGE": {
+   "zil": "MOUNTAIN-RANGE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 70,
+   "module": "_1dungeon"
+  },
+  "MOUNTAIN_RANGE_F": {
+   "zil": "MOUNTAIN-RANGE-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 152,
+   "module": "_1actions"
+  },
+  "MOVES": {
+   "zil": "MOVES",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1843,
+   "module": "gverbs"
+  },
+  "MOVE_ALL": {
+   "zil": "MOVE-ALL",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2114,
+   "module": "_1actions"
+  },
+  "MSWITCH_FUNCTION": {
+   "zil": "MSWITCH-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2531,
+   "module": "_1actions"
+  },
+  "MUNG_ROOM": {
+   "zil": "MUNG-ROOM",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2183,
+   "module": "gverbs"
+  },
+  "M_BEG": {
+   "zil": "M-BEG",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 19,
+   "module": "gmain"
+  },
+  "M_END": {
+   "zil": "M-END",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 21,
+   "module": "gmain"
+  },
+  "M_ENTER": {
+   "zil": "M-ENTER",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 23,
+   "module": "gmain"
+  },
+  "M_FATAL": {
+   "zil": "M-FATAL",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 11,
+   "module": "gmain"
+  },
+  "M_FLASH": {
+   "zil": "M-FLASH",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 27,
+   "module": "gmain"
+  },
+  "M_HANDLED": {
+   "zil": "M-HANDLED",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 13,
+   "module": "gmain"
+  },
+  "M_LOOK": {
+   "zil": "M-LOOK",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 25,
+   "module": "gmain"
+  },
+  "M_NOT_HANDLED": {
+   "zil": "M-NOT-HANDLED",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 15,
+   "module": "gmain"
+  },
+  "M_OBJDESC": {
+   "zil": "M-OBJDESC",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 29,
+   "module": "gmain"
+  },
+  "M_OBJECT": {
+   "zil": "M-OBJECT",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 17,
+   "module": "gmain"
+  },
+  "NAILS_PSEUDO": {
+   "zil": "NAILS-PSEUDO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 376,
+   "module": "_1actions"
+  },
+  "NARROW_PASSAGE": {
+   "zil": "NARROW-PASSAGE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1893,
+   "module": "_1dungeon"
+  },
+  "NCLAUSE_WIN": {
+   "zil": "NCLAUSE-WIN",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 645,
+   "module": "gparser"
+  },
+  "NEST": {
+   "zil": "NEST",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1145,
+   "module": "_1dungeon"
+  },
+  "NEXIT": {
+   "zil": "NEXIT",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2003,
+   "module": "gverbs"
+  },
+  "NEXITSTR": {
+   "zil": "NEXITSTR",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2008,
+   "module": "gverbs"
+  },
+  "NORTH_OF_HOUSE": {
+   "zil": "NORTH-OF-HOUSE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1264,
+   "module": "_1dungeon"
+  },
+  "NORTH_TEMPLE": {
+   "zil": "NORTH-TEMPLE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2098,
+   "module": "_1dungeon"
+  },
+  "NOT_HERE_OBJECT": {
+   "zil": "NOT-HERE-OBJECT",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 48,
+   "module": "gglobals"
+  },
+  "NOT_HERE_OBJECT_F": {
+   "zil": "NOT-HERE-OBJECT-F",
+   "kind": "ROUTINE",
+   "file": "gglobals.zil",
+   "line": 52,
+   "module": "gglobals"
+  },
+  "NOT_HERE_PRINT": {
+   "zil": "NOT-HERE-PRINT",
+   "kind": "ROUTINE",
+   "file": "gglobals.zil",
+   "line": 76,
+   "module": "gglobals"
+  },
+  "NO_GO_TELL": {
+   "zil": "NO-GO-TELL",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2038,
+   "module": "gverbs"
+  },
+  "NO_OBJS": {
+   "zil": "NO-OBJS",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2558,
+   "module": "_1actions"
+  },
+  "NS_PASSAGE": {
+   "zil": "NS-PASSAGE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1998,
+   "module": "_1dungeon"
+  },
+  "NULL_F": {
+   "zil": "NULL-F",
+   "kind": "ROUTINE",
+   "file": "gglobals.zil",
+   "line": 85,
+   "module": "gglobals"
+  },
+  "NUMBER_p": {
+   "zil": "NUMBER?",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 512,
+   "module": "gparser"
+  },
+  "OBJ_FOUND": {
+   "zil": "OBJ-FOUND",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1239,
+   "module": "gparser"
+  },
+  "ON_RAINBOW": {
+   "zil": "ON-RAINBOW",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2330,
+   "module": "_1dungeon"
+  },
+  "OOPS_INBUF": {
+   "zil": "OOPS-INBUF",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 47,
+   "module": "gparser"
+  },
+  "OOPS_TABLE": {
+   "zil": "OOPS-TABLE",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 50,
+   "module": "gparser"
+  },
+  "OPEN_CLOSE": {
+   "zil": "OPEN-CLOSE",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 28,
+   "module": "_1actions"
+  },
+  "ORPHAN": {
+   "zil": "ORPHAN",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 782,
+   "module": "gparser"
+  },
+  "ORPHAN_MERGE": {
+   "zil": "ORPHAN-MERGE",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 543,
+   "module": "gparser"
+  },
+  "OTHER_SIDE": {
+   "zil": "OTHER-SIDE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2173,
+   "module": "gverbs"
+  },
+  "OTVAL_FROB": {
+   "zil": "OTVAL-FROB",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 496,
+   "module": "_1actions"
+  },
+  "OWNERS_MANUAL": {
+   "zil": "OWNERS-MANUAL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1100,
+   "module": "_1dungeon"
+  },
+  "O_END": {
+   "zil": "O-END",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 54,
+   "module": "gparser"
+  },
+  "O_LENGTH": {
+   "zil": "O-LENGTH",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 53,
+   "module": "gparser"
+  },
+  "O_PTR": {
+   "zil": "O-PTR",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 51,
+   "module": "gparser"
+  },
+  "O_START": {
+   "zil": "O-START",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 52,
+   "module": "gparser"
+  },
+  "PAINTING": {
+   "zil": "PAINTING",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 655,
+   "module": "_1dungeon"
+  },
+  "PAINTING_FCN": {
+   "zil": "PAINTING-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2207,
+   "module": "_1actions"
+  },
+  "PAINT_PSEUDO": {
+   "zil": "PAINT-PSEUDO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3222,
+   "module": "_1actions"
+  },
+  "PARSER": {
+   "zil": "PARSER",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 109,
+   "module": "gparser"
+  },
+  "PATH": {
+   "zil": "PATH",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1363,
+   "module": "_1dungeon"
+  },
+  "PATHOBJ": {
+   "zil": "PATHOBJ",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 274,
+   "module": "gglobals"
+  },
+  "PATH_OBJECT": {
+   "zil": "PATH-OBJECT",
+   "kind": "ROUTINE",
+   "file": "gglobals.zil",
+   "line": 282,
+   "module": "gglobals"
+  },
+  "PEDESTAL": {
+   "zil": "PEDESTAL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 980,
+   "module": "_1dungeon"
+  },
+  "PERFORM": {
+   "zil": "PERFORM",
+   "kind": "ROUTINE",
+   "file": "gmain.zil",
+   "line": 235,
+   "module": "gmain"
+  },
+  "PICK_ONE": {
+   "zil": "PICK-ONE",
+   "kind": "ROUTINE",
+   "file": "gmacros.zil",
+   "line": 127,
+   "module": "gmacros"
+  },
+  "PLAYER": {
+   "zil": "PLAYER",
+   "kind": "GLOBAL",
+   "file": "gmain.zil",
+   "line": 7,
+   "module": "gmain"
+  },
+  "POT_OF_GOLD": {
+   "zil": "POT-OF-GOLD",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 736,
+   "module": "_1dungeon"
+  },
+  "PRAYER": {
+   "zil": "PRAYER",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 747,
+   "module": "_1dungeon"
+  },
+  "PREP_FIND": {
+   "zil": "PREP-FIND",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 888,
+   "module": "gparser"
+  },
+  "PREP_PRINT": {
+   "zil": "PREP-PRINT",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 851,
+   "module": "gparser"
+  },
+  "PRE_BOARD": {
+   "zil": "PRE-BOARD",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 201,
+   "module": "gverbs"
+  },
+  "PRE_BURN": {
+   "zil": "PRE-BURN",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 243,
+   "module": "gverbs"
+  },
+  "PRE_DROP": {
+   "zil": "PRE-DROP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 474,
+   "module": "gverbs"
+  },
+  "PRE_FILL": {
+   "zil": "PRE-FILL",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 646,
+   "module": "gverbs"
+  },
+  "PRE_GIVE": {
+   "zil": "PRE-GIVE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 708,
+   "module": "gverbs"
+  },
+  "PRE_MOVE": {
+   "zil": "PRE-MOVE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 910,
+   "module": "gverbs"
+  },
+  "PRE_MUNG": {
+   "zil": "PRE-MUNG",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 923,
+   "module": "gverbs"
+  },
+  "PRE_PUT": {
+   "zil": "PRE-PUT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1075,
+   "module": "gverbs"
+  },
+  "PRE_READ": {
+   "zil": "PRE-READ",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1137,
+   "module": "gverbs"
+  },
+  "PRE_SGIVE": {
+   "zil": "PRE-SGIVE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1206,
+   "module": "gverbs"
+  },
+  "PRE_TAKE": {
+   "zil": "PRE-TAKE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1353,
+   "module": "gverbs"
+  },
+  "PRE_TURN": {
+   "zil": "PRE-TURN",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1488,
+   "module": "gverbs"
+  },
+  "PRINT_CONT": {
+   "zil": "PRINT-CONT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1750,
+   "module": "gverbs"
+  },
+  "PRINT_CONTENTS": {
+   "zil": "PRINT-CONTENTS",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1730,
+   "module": "gverbs"
+  },
+  "PROB_1": {
+   "zil": "PROB-1",
+   "kind": "DEFMAC",
+   "file": "gmacros.zil",
+   "line": 115,
+   "module": "gmacros"
+  },
+  "PROB_2": {
+   "zil": "PROB-2",
+   "kind": "DEFMAC",
+   "file": "gmacros.zil",
+   "line": 115,
+   "module": "gmacros"
+  },
+  "PRSA": {
+   "zil": "PRSA",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 14,
+   "module": "gparser"
+  },
+  "PRSI": {
+   "zil": "PRSI",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 15,
+   "module": "gparser"
+  },
+  "PRSO": {
+   "zil": "PRSO",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 16,
+   "module": "gparser"
+  },
+  "PSEUDO_OBJECT": {
+   "zil": "PSEUDO-OBJECT",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 37,
+   "module": "gglobals"
+  },
+  "PUMP": {
+   "zil": "PUMP",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 481,
+   "module": "_1dungeon"
+  },
+  "PUNCTURED_BOAT": {
+   "zil": "PUNCTURED-BOAT",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 705,
+   "module": "_1dungeon"
+  },
+  "PUTTY": {
+   "zil": "PUTTY",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1076,
+   "module": "_1dungeon"
+  },
+  "PUTTY_FCN": {
+   "zil": "PUTTY-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1379,
+   "module": "_1actions"
+  },
+  "P_AADJ": {
+   "zil": "P-AADJ",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 68,
+   "module": "gparser"
+  },
+  "P_ACLAUSE": {
+   "zil": "P-ACLAUSE",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 66,
+   "module": "gparser"
+  },
+  "P_ACT": {
+   "zil": "P-ACT",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 382,
+   "module": "gparser"
+  },
+  "P_ADJ": {
+   "zil": "P-ADJ",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 961,
+   "module": "gparser"
+  },
+  "P_ADJN": {
+   "zil": "P-ADJN",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 963,
+   "module": "gparser"
+  },
+  "P_ADVERB": {
+   "zil": "P-ADVERB",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 962,
+   "module": "gparser"
+  },
+  "P_ALL": {
+   "zil": "P-ALL",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 971,
+   "module": "gparser"
+  },
+  "P_ANAM": {
+   "zil": "P-ANAM",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 67,
+   "module": "gparser"
+  },
+  "P_AND": {
+   "zil": "P-AND",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 976,
+   "module": "gparser"
+  },
+  "P_BUTS": {
+   "zil": "P-BUTS",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 966,
+   "module": "gparser"
+  },
+  "P_CCTBL": {
+   "zil": "P-CCTBL",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 22,
+   "module": "gparser"
+  },
+  "P_CONT": {
+   "zil": "P-CONT",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 58,
+   "module": "gparser"
+  },
+  "P_DIR": {
+   "zil": "P-DIR",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 30,
+   "module": "gparser"
+  },
+  "P_DIRECTION": {
+   "zil": "P-DIRECTION",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 538,
+   "module": "gparser"
+  },
+  "P_END_ON_PREP": {
+   "zil": "P-END-ON-PREP",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 102,
+   "module": "gparser"
+  },
+  "P_GETFLAGS": {
+   "zil": "P-GETFLAGS",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 970,
+   "module": "gparser"
+  },
+  "P_GWIMBIT": {
+   "zil": "P-GWIMBIT",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 899,
+   "module": "gparser"
+  },
+  "P_INBUF": {
+   "zil": "P-INBUF",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 44,
+   "module": "gparser"
+  },
+  "P_INHIBIT": {
+   "zil": "P-INHIBIT",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 973,
+   "module": "gparser"
+  },
+  "P_ITBL": {
+   "zil": "P-ITBL",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 83,
+   "module": "gparser"
+  },
+  "P_ITBLLEN": {
+   "zil": "P-ITBLLEN",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 82,
+   "module": "gparser"
+  },
+  "P_IT_OBJECT": {
+   "zil": "P-IT-OBJECT",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 59,
+   "module": "gparser"
+  },
+  "P_LEN": {
+   "zil": "P-LEN",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 29,
+   "module": "gparser"
+  },
+  "P_LEXELEN": {
+   "zil": "P-LEXELEN",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 75,
+   "module": "gparser"
+  },
+  "P_LEXSTART": {
+   "zil": "P-LEXSTART",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 74,
+   "module": "gparser"
+  },
+  "P_LEXV": {
+   "zil": "P-LEXV",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 34,
+   "module": "gparser"
+  },
+  "P_LEXWORDS": {
+   "zil": "P-LEXWORDS",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 73,
+   "module": "gparser"
+  },
+  "P_MATCHLEN": {
+   "zil": "P-MATCHLEN",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 969,
+   "module": "gparser"
+  },
+  "P_MERGE": {
+   "zil": "P-MERGE",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 967,
+   "module": "gparser"
+  },
+  "P_MERGED": {
+   "zil": "P-MERGED",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 65,
+   "module": "gparser"
+  },
+  "P_MULT": {
+   "zil": "P-MULT",
+   "kind": "GLOBAL",
+   "file": "gmain.zil",
+   "line": 174,
+   "module": "gmain"
+  },
+  "P_NAM": {
+   "zil": "P-NAM",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 960,
+   "module": "gparser"
+  },
+  "P_NC1": {
+   "zil": "P-NC1",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 96,
+   "module": "gparser"
+  },
+  "P_NC1L": {
+   "zil": "P-NC1L",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 97,
+   "module": "gparser"
+  },
+  "P_NC2": {
+   "zil": "P-NC2",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 98,
+   "module": "gparser"
+  },
+  "P_NC2L": {
+   "zil": "P-NC2L",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 99,
+   "module": "gparser"
+  },
+  "P_NCN": {
+   "zil": "P-NCN",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 88,
+   "module": "gparser"
+  },
+  "P_NOT_HERE": {
+   "zil": "P-NOT-HERE",
+   "kind": "GLOBAL",
+   "file": "gmain.zil",
+   "line": 176,
+   "module": "gmain"
+  },
+  "P_NUMBER": {
+   "zil": "P-NUMBER",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 536,
+   "module": "gparser"
+  },
+  "P_OCLAUSE": {
+   "zil": "P-OCLAUSE",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 968,
+   "module": "gparser"
+  },
+  "P_OFLAG": {
+   "zil": "P-OFLAG",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 64,
+   "module": "gparser"
+  },
+  "P_ONE": {
+   "zil": "P-ONE",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 972,
+   "module": "gparser"
+  },
+  "P_ONEOBJ": {
+   "zil": "P-ONEOBJ",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 19,
+   "module": "gparser"
+  },
+  "P_OTBL": {
+   "zil": "P-OTBL",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 84,
+   "module": "gparser"
+  },
+  "P_OVTBL": {
+   "zil": "P-OVTBL",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 86,
+   "module": "gparser"
+  },
+  "P_P1BITS": {
+   "zil": "P-P1BITS",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 80,
+   "module": "gparser"
+  },
+  "P_P1OFF": {
+   "zil": "P-P1OFF",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 79,
+   "module": "gparser"
+  },
+  "P_PREP1": {
+   "zil": "P-PREP1",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 92,
+   "module": "gparser"
+  },
+  "P_PREP1N": {
+   "zil": "P-PREP1N",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 93,
+   "module": "gparser"
+  },
+  "P_PREP2": {
+   "zil": "P-PREP2",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 94,
+   "module": "gparser"
+  },
+  "P_PREP2N": {
+   "zil": "P-PREP2N",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 95,
+   "module": "gparser"
+  },
+  "P_PRSI": {
+   "zil": "P-PRSI",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 965,
+   "module": "gparser"
+  },
+  "P_PRSO": {
+   "zil": "P-PRSO",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 964,
+   "module": "gparser"
+  },
+  "P_PSOFF": {
+   "zil": "P-PSOFF",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 78,
+   "module": "gparser"
+  },
+  "P_SACTION": {
+   "zil": "P-SACTION",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 704,
+   "module": "gparser"
+  },
+  "P_SBITS": {
+   "zil": "P-SBITS",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 697,
+   "module": "gparser"
+  },
+  "P_SFWIM1": {
+   "zil": "P-SFWIM1",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 700,
+   "module": "gparser"
+  },
+  "P_SFWIM2": {
+   "zil": "P-SFWIM2",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 701,
+   "module": "gparser"
+  },
+  "P_SLOC1": {
+   "zil": "P-SLOC1",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 702,
+   "module": "gparser"
+  },
+  "P_SLOC2": {
+   "zil": "P-SLOC2",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 703,
+   "module": "gparser"
+  },
+  "P_SLOCBITS": {
+   "zil": "P-SLOCBITS",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 693,
+   "module": "gparser"
+  },
+  "P_SONUMS": {
+   "zil": "P-SONUMS",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 705,
+   "module": "gparser"
+  },
+  "P_SPREP1": {
+   "zil": "P-SPREP1",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 698,
+   "module": "gparser"
+  },
+  "P_SPREP2": {
+   "zil": "P-SPREP2",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 699,
+   "module": "gparser"
+  },
+  "P_SRCALL": {
+   "zil": "P-SRCALL",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 1214,
+   "module": "gparser"
+  },
+  "P_SRCBOT": {
+   "zil": "P-SRCBOT",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 1212,
+   "module": "gparser"
+  },
+  "P_SRCTOP": {
+   "zil": "P-SRCTOP",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 1213,
+   "module": "gparser"
+  },
+  "P_SYNLEN": {
+   "zil": "P-SYNLEN",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 695,
+   "module": "gparser"
+  },
+  "P_SYNTAX": {
+   "zil": "P-SYNTAX",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 20,
+   "module": "gparser"
+  },
+  "P_TABLE": {
+   "zil": "P-TABLE",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 18,
+   "module": "gparser"
+  },
+  "P_VERB": {
+   "zil": "P-VERB",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 90,
+   "module": "gparser"
+  },
+  "P_VERBN": {
+   "zil": "P-VERBN",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 91,
+   "module": "gparser"
+  },
+  "P_VTBL": {
+   "zil": "P-VTBL",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 85,
+   "module": "gparser"
+  },
+  "P_WALK_DIR": {
+   "zil": "P-WALK-DIR",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 383,
+   "module": "gparser"
+  },
+  "P_WON": {
+   "zil": "P-WON",
+   "kind": "GLOBAL",
+   "file": "gmain.zil",
+   "line": 9,
+   "module": "gmain"
+  },
+  "P_WORDLEN": {
+   "zil": "P-WORDLEN",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 76,
+   "module": "gparser"
+  },
+  "P_XADJ": {
+   "zil": "P-XADJ",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 1143,
+   "module": "gparser"
+  },
+  "P_XADJN": {
+   "zil": "P-XADJN",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 1144,
+   "module": "gparser"
+  },
+  "P_XNAM": {
+   "zil": "P-XNAM",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 1142,
+   "module": "gparser"
+  },
+  "QUEUE": {
+   "zil": "QUEUE",
+   "kind": "ROUTINE",
+   "file": "gclock.zil",
+   "line": 21,
+   "module": "gclock"
+  },
+  "QUOTE_FLAG": {
+   "zil": "QUOTE-FLAG",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 101,
+   "module": "gparser"
+  },
+  "RAILING": {
+   "zil": "RAILING",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 760,
+   "module": "_1dungeon"
+  },
+  "RAINBOW": {
+   "zil": "RAINBOW",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 767,
+   "module": "_1dungeon"
+  },
+  "RAINBOW_FCN": {
+   "zil": "RAINBOW-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2634,
+   "module": "_1actions"
+  },
+  "RAINBOW_FLAG": {
+   "zil": "RAINBOW-FLAG",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1232,
+   "module": "_1dungeon"
+  },
+  "RAISED_BASKET": {
+   "zil": "RAISED-BASKET",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 138,
+   "module": "_1dungeon"
+  },
+  "RANDOMIZE_OBJECTS": {
+   "zil": "RANDOMIZE-OBJECTS",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4101,
+   "module": "_1actions"
+  },
+  "RANDOM_ELEMENT": {
+   "zil": "RANDOM-ELEMENT",
+   "kind": "ROUTINE",
+   "file": "gmacros.zil",
+   "line": 124,
+   "module": "gmacros"
+  },
+  "RBOAT_FUNCTION": {
+   "zil": "RBOAT-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2722,
+   "module": "_1actions"
+  },
+  "RECOVER_STILETTO": {
+   "zil": "RECOVER-STILETTO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3949,
+   "module": "_1actions"
+  },
+  "RED_BUTTON": {
+   "zil": "RED-BUTTON",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 322,
+   "module": "_1dungeon"
+  },
+  "REMARK": {
+   "zil": "REMARK",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3363,
+   "module": "_1actions"
+  },
+  "REMOVE_CAREFULLY": {
+   "zil": "REMOVE-CAREFULLY",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 610,
+   "module": "gverbs"
+  },
+  "RESERVE_LEXV": {
+   "zil": "RESERVE-LEXV",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 38,
+   "module": "gparser"
+  },
+  "RESERVE_PTR": {
+   "zil": "RESERVE-PTR",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 40,
+   "module": "gparser"
+  },
+  "RESERVOIR": {
+   "zil": "RESERVOIR",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1783,
+   "module": "_1dungeon"
+  },
+  "RESERVOIR_FCN": {
+   "zil": "RESERVOIR-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1444,
+   "module": "_1actions"
+  },
+  "RESERVOIR_NORTH": {
+   "zil": "RESERVOIR-NORTH",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1796,
+   "module": "_1dungeon"
+  },
+  "RESERVOIR_NORTH_FCN": {
+   "zil": "RESERVOIR-NORTH-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1464,
+   "module": "_1actions"
+  },
+  "RESERVOIR_SOUTH": {
+   "zil": "RESERVOIR-SOUTH",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1769,
+   "module": "_1dungeon"
+  },
+  "RESERVOIR_SOUTH_FCN": {
+   "zil": "RESERVOIR-SOUTH-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1415,
+   "module": "_1actions"
+  },
+  "REXIT": {
+   "zil": "REXIT",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2001,
+   "module": "gverbs"
+  },
+  "RIVER": {
+   "zil": "RIVER",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 774,
+   "module": "_1dungeon"
+  },
+  "RIVER_1": {
+   "zil": "RIVER-1",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2190,
+   "module": "_1dungeon"
+  },
+  "RIVER_2": {
+   "zil": "RIVER-2",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2204,
+   "module": "_1dungeon"
+  },
+  "RIVER_3": {
+   "zil": "RIVER-3",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2219,
+   "module": "_1dungeon"
+  },
+  "RIVER_4": {
+   "zil": "RIVER-4",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2258,
+   "module": "_1dungeon"
+  },
+  "RIVER_5": {
+   "zil": "RIVER-5",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2274,
+   "module": "_1dungeon"
+  },
+  "RIVER_FUNCTION": {
+   "zil": "RIVER-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2669,
+   "module": "_1actions"
+  },
+  "RIVER_LAUNCH": {
+   "zil": "RIVER-LAUNCH",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2698,
+   "module": "_1actions"
+  },
+  "RIVER_NEXT": {
+   "zil": "RIVER-NEXT",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2695,
+   "module": "_1actions"
+  },
+  "RIVER_SPEEDS": {
+   "zil": "RIVER-SPEEDS",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2692,
+   "module": "_1actions"
+  },
+  "RIVR4_ROOM": {
+   "zil": "RIVR4-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2844,
+   "module": "_1actions"
+  },
+  "ROB": {
+   "zil": "ROB",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3976,
+   "module": "_1actions"
+  },
+  "ROBBER_C_DESC": {
+   "zil": "ROBBER-C-DESC",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2086,
+   "module": "_1actions"
+  },
+  "ROBBER_FUNCTION": {
+   "zil": "ROBBER-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1947,
+   "module": "_1actions"
+  },
+  "ROBBER_U_DESC": {
+   "zil": "ROBBER-U-DESC",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2090,
+   "module": "_1actions"
+  },
+  "ROB_MAZE": {
+   "zil": "ROB-MAZE",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1917,
+   "module": "_1actions"
+  },
+  "ROOMS": {
+   "zil": "ROOMS",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 28,
+   "module": "gglobals"
+  },
+  "ROPE": {
+   "zil": "ROPE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 797,
+   "module": "_1dungeon"
+  },
+  "ROPE_FUNCTION": {
+   "zil": "ROPE-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3030,
+   "module": "_1actions"
+  },
+  "ROUND_ROOM": {
+   "zil": "ROUND-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1952,
+   "module": "_1dungeon"
+  },
+  "RUG": {
+   "zil": "RUG",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 347,
+   "module": "_1dungeon"
+  },
+  "RUG_FCN": {
+   "zil": "RUG-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 579,
+   "module": "_1actions"
+  },
+  "RUG_MOVED": {
+   "zil": "RUG-MOVED",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 447,
+   "module": "_1actions"
+  },
+  "RUSTY_KNIFE": {
+   "zil": "RUSTY-KNIFE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 807,
+   "module": "_1dungeon"
+  },
+  "RUSTY_KNIFE_FCN": {
+   "zil": "RUSTY-KNIFE-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 907,
+   "module": "_1actions"
+  },
+  "SAILOR": {
+   "zil": "SAILOR",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 115,
+   "module": "gglobals"
+  },
+  "SAILOR_FCN": {
+   "zil": "SAILOR-FCN",
+   "kind": "ROUTINE",
+   "file": "gglobals.zil",
+   "line": 122,
+   "module": "gglobals"
+  },
+  "SAND": {
+   "zil": "SAND",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 817,
+   "module": "_1dungeon"
+  },
+  "SANDWICH_BAG": {
+   "zil": "SANDWICH-BAG",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 286,
+   "module": "_1dungeon"
+  },
+  "SANDWICH_BAG_FCN": {
+   "zil": "SANDWICH-BAG-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3106,
+   "module": "_1actions"
+  },
+  "SANDY_BEACH": {
+   "zil": "SANDY-BEACH",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2298,
+   "module": "_1dungeon"
+  },
+  "SANDY_CAVE": {
+   "zil": "SANDY-CAVE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2311,
+   "module": "_1dungeon"
+  },
+  "SAND_FUNCTION": {
+   "zil": "SAND-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2855,
+   "module": "_1actions"
+  },
+  "SC": {
+   "zil": "SC",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 1033,
+   "module": "gparser"
+  },
+  "SCARAB": {
+   "zil": "SCARAB",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 871,
+   "module": "_1dungeon"
+  },
+  "SCEPTRE": {
+   "zil": "SCEPTRE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 239,
+   "module": "_1dungeon"
+  },
+  "SCEPTRE_FUNCTION": {
+   "zil": "SCEPTRE-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2592,
+   "module": "_1actions"
+  },
+  "SCORE": {
+   "zil": "SCORE",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1845,
+   "module": "gverbs"
+  },
+  "SCORE_MAX": {
+   "zil": "SCORE-MAX",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 7,
+   "module": "_1dungeon"
+  },
+  "SCORE_OBJ": {
+   "zil": "SCORE-OBJ",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1867,
+   "module": "gverbs"
+  },
+  "SCORE_UPD": {
+   "zil": "SCORE-UPD",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1851,
+   "module": "gverbs"
+  },
+  "SCREWDRIVER": {
+   "zil": "SCREWDRIVER",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 834,
+   "module": "_1dungeon"
+  },
+  "SEARCH_LIST": {
+   "zil": "SEARCH-LIST",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1216,
+   "module": "gparser"
+  },
+  "SEE_INSIDE_p": {
+   "zil": "SEE-INSIDE?",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1837,
+   "module": "gverbs"
+  },
+  "SERIAL": {
+   "zil": "SERIAL",
+   "kind": "CONSTANT",
+   "file": "gmain.zil",
+   "line": 5,
+   "module": "gmain"
+  },
+  "SERIOUS_WOUND": {
+   "zil": "SERIOUS-WOUND",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3250,
+   "module": "_1actions"
+  },
+  "SH": {
+   "zil": "SH",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 1032,
+   "module": "gparser"
+  },
+  "SHAFT_ROOM": {
+   "zil": "SHAFT-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2449,
+   "module": "_1dungeon"
+  },
+  "SHAKE_LOOP": {
+   "zil": "SHAKE-LOOP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1242,
+   "module": "gverbs"
+  },
+  "SHAVE": {
+   "zil": "SHAVE",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 1038,
+   "module": "gparser"
+  },
+  "SHORE": {
+   "zil": "SHORE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2286,
+   "module": "_1dungeon"
+  },
+  "SHOVEL": {
+   "zil": "SHOVEL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 849,
+   "module": "_1dungeon"
+  },
+  "SIBREAKS": {
+   "zil": "SIBREAKS",
+   "kind": "SETG",
+   "file": "gparser.zil",
+   "line": 12,
+   "module": "gparser"
+  },
+  "SING_SONG": {
+   "zil": "SING-SONG",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 2968,
+   "module": "_1actions"
+  },
+  "SIR": {
+   "zil": "SIR",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 1034,
+   "module": "gparser"
+  },
+  "SITTING_DUCK": {
+   "zil": "SITTING-DUCK",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3254,
+   "module": "_1actions"
+  },
+  "SKELETON": {
+   "zil": "SKELETON",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 931,
+   "module": "_1actions"
+  },
+  "SKULL": {
+   "zil": "SKULL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 117,
+   "module": "_1dungeon"
+  },
+  "SLIDE": {
+   "zil": "SLIDE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 263,
+   "module": "_1dungeon"
+  },
+  "SLIDER": {
+   "zil": "SLIDER",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3098,
+   "module": "_1actions"
+  },
+  "SLIDE_FUNCTION": {
+   "zil": "SLIDE-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3086,
+   "module": "_1actions"
+  },
+  "SLIDE_ROOM": {
+   "zil": "SLIDE-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2601,
+   "module": "_1dungeon"
+  },
+  "SMALL_CAVE": {
+   "zil": "SMALL-CAVE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1857,
+   "module": "_1dungeon"
+  },
+  "SMANY": {
+   "zil": "SMANY",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 1037,
+   "module": "gparser"
+  },
+  "SMELLY_ROOM": {
+   "zil": "SMELLY-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2463,
+   "module": "_1dungeon"
+  },
+  "SNARFEM": {
+   "zil": "SNARFEM",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 978,
+   "module": "gparser"
+  },
+  "SNARF_OBJECTS": {
+   "zil": "SNARF-OBJECTS",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 928,
+   "module": "gparser"
+  },
+  "SOG": {
+   "zil": "SOG",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 1035,
+   "module": "gparser"
+  },
+  "SONGBIRD": {
+   "zil": "SONGBIRD",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 40,
+   "module": "_1dungeon"
+  },
+  "SONGBIRD_F": {
+   "zil": "SONGBIRD-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 82,
+   "module": "_1actions"
+  },
+  "SOUTH_OF_HOUSE": {
+   "zil": "SOUTH-OF-HOUSE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1280,
+   "module": "_1dungeon"
+  },
+  "SOUTH_TEMPLE": {
+   "zil": "SOUTH-TEMPLE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2116,
+   "module": "_1dungeon"
+  },
+  "SOUTH_TEMPLE_FCN": {
+   "zil": "SOUTH-TEMPLE-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2573,
+   "module": "_1actions"
+  },
+  "SPRAYED_p": {
+   "zil": "SPRAYED?",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1628,
+   "module": "gverbs"
+  },
+  "SQUEEKY_ROOM": {
+   "zil": "SQUEEKY-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2431,
+   "module": "_1dungeon"
+  },
+  "STAGGER": {
+   "zil": "STAGGER",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3251,
+   "module": "_1actions"
+  },
+  "STAIRS": {
+   "zil": "STAIRS",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 102,
+   "module": "gglobals"
+  },
+  "STAIRS_F": {
+   "zil": "STAIRS-F",
+   "kind": "ROUTINE",
+   "file": "gglobals.zil",
+   "line": 110,
+   "module": "gglobals"
+  },
+  "STAKE": {
+   "zil": "STAKE",
+   "kind": "CONSTANT",
+   "file": "gparser.zil",
+   "line": 1036,
+   "module": "gparser"
+  },
+  "STEAL_JUNK": {
+   "zil": "STEAL-JUNK",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3954,
+   "module": "_1actions"
+  },
+  "STILETTO": {
+   "zil": "STILETTO",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 889,
+   "module": "_1dungeon"
+  },
+  "STILETTO_FUNCTION": {
+   "zil": "STILETTO-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 626,
+   "module": "_1actions"
+  },
+  "STOLE_LIGHT_p": {
+   "zil": "STOLE-LIGHT?",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1875,
+   "module": "_1actions"
+  },
+  "STONE_BARROW": {
+   "zil": "STONE-BARROW",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1254,
+   "module": "_1dungeon"
+  },
+  "STONE_BARROW_FCN": {
+   "zil": "STONE-BARROW-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 403,
+   "module": "_1actions"
+  },
+  "STRANGE_PASSAGE": {
+   "zil": "STRANGE-PASSAGE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1740,
+   "module": "_1dungeon"
+  },
+  "STREAM_PSEUDO": {
+   "zil": "STREAM-PSEUDO",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3185,
+   "module": "_1actions"
+  },
+  "STREAM_VIEW": {
+   "zil": "STREAM-VIEW",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1807,
+   "module": "_1dungeon"
+  },
+  "STRENGTH_MAX": {
+   "zil": "STRENGTH-MAX",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3323,
+   "module": "_1actions"
+  },
+  "STRENGTH_MIN": {
+   "zil": "STRENGTH-MIN",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3324,
+   "module": "_1actions"
+  },
+  "STUDIO": {
+   "zil": "STUDIO",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1518,
+   "module": "_1dungeon"
+  },
+  "STUFF": {
+   "zil": "STUFF",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 387,
+   "module": "gparser"
+  },
+  "STUPID_CONTAINER": {
+   "zil": "STUPID-CONTAINER",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4143,
+   "module": "_1actions"
+  },
+  "SUPER_BRIEF": {
+   "zil": "SUPER-BRIEF",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 10,
+   "module": "gverbs"
+  },
+  "SWIMYUKS": {
+   "zil": "SWIMYUKS",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 2195,
+   "module": "gverbs"
+  },
+  "SWORD": {
+   "zil": "SWORD",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 915,
+   "module": "_1dungeon"
+  },
+  "SWORD_FCN": {
+   "zil": "SWORD-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2432,
+   "module": "_1actions"
+  },
+  "SYNTAX_CHECK": {
+   "zil": "SYNTAX-CHECK",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 707,
+   "module": "gparser"
+  },
+  "SYNTAX_FOUND": {
+   "zil": "SYNTAX-FOUND",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 895,
+   "module": "gparser"
+  },
+  "TAKE_CHECK": {
+   "zil": "TAKE-CHECK",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1244,
+   "module": "gparser"
+  },
+  "TEETH": {
+   "zil": "TEETH",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 20,
+   "module": "_1dungeon"
+  },
+  "TEETH_F": {
+   "zil": "TEETH-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 48,
+   "module": "_1actions"
+  },
+  "TELL_NO_PRSI": {
+   "zil": "TELL-NO-PRSI",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 240,
+   "module": "gverbs"
+  },
+  "THIEF": {
+   "zil": "THIEF",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 968,
+   "module": "_1dungeon"
+  },
+  "THIEF_ENGROSSED": {
+   "zil": "THIEF-ENGROSSED",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1945,
+   "module": "_1actions"
+  },
+  "THIEF_HERE": {
+   "zil": "THIEF-HERE",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1754,
+   "module": "_1actions"
+  },
+  "THIEF_IN_TREASURE": {
+   "zil": "THIEF-IN-TREASURE",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2151,
+   "module": "_1actions"
+  },
+  "THIEF_MELEE": {
+   "zil": "THIEF-MELEE",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3735,
+   "module": "_1actions"
+  },
+  "THIEF_VS_ADVENTURER": {
+   "zil": "THIEF-VS-ADVENTURER",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1764,
+   "module": "_1actions"
+  },
+  "THING_PRINT": {
+   "zil": "THING-PRINT",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 810,
+   "module": "gparser"
+  },
+  "THIS_IS_IT": {
+   "zil": "THIS-IS-IT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 2191,
+   "module": "gverbs"
+  },
+  "THIS_IT_p": {
+   "zil": "THIS-IT?",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1357,
+   "module": "gparser"
+  },
+  "TIMBERS": {
+   "zil": "TIMBERS",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 255,
+   "module": "_1dungeon"
+  },
+  "TIMBER_ROOM": {
+   "zil": "TIMBER-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2521,
+   "module": "_1dungeon"
+  },
+  "TINY_CAVE": {
+   "zil": "TINY-CAVE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1870,
+   "module": "_1dungeon"
+  },
+  "TOOL_CHEST": {
+   "zil": "TOOL-CHEST",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 298,
+   "module": "_1dungeon"
+  },
+  "TOOL_CHEST_FCN": {
+   "zil": "TOOL-CHEST-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1332,
+   "module": "_1actions"
+  },
+  "TORCH": {
+   "zil": "TORCH",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 989,
+   "module": "_1dungeon"
+  },
+  "TORCH_OBJECT": {
+   "zil": "TORCH-OBJECT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 944,
+   "module": "_1actions"
+  },
+  "TORCH_ROOM": {
+   "zil": "TORCH-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2087,
+   "module": "_1dungeon"
+  },
+  "TORCH_ROOM_FCN": {
+   "zil": "TORCH-ROOM-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1018,
+   "module": "_1actions"
+  },
+  "TOUCH_ALL": {
+   "zil": "TOUCH-ALL",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 487,
+   "module": "_1actions"
+  },
+  "TRAP_DOOR": {
+   "zil": "TRAP-DOOR",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 403,
+   "module": "_1dungeon"
+  },
+  "TRAP_DOOR_EXIT": {
+   "zil": "TRAP-DOOR-EXIT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 567,
+   "module": "_1actions"
+  },
+  "TRAP_DOOR_FCN": {
+   "zil": "TRAP-DOOR-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 504,
+   "module": "_1actions"
+  },
+  "TREASURE_INSIDE": {
+   "zil": "TREASURE-INSIDE",
+   "kind": "ROUTINE",
+   "file": "1dungeon.zil",
+   "line": 793,
+   "module": "_1dungeon"
+  },
+  "TREASURE_ROOM": {
+   "zil": "TREASURE-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1752,
+   "module": "_1dungeon"
+  },
+  "TREASURE_ROOM_FCN": {
+   "zil": "TREASURE-ROOM-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2138,
+   "module": "_1actions"
+  },
+  "TREE": {
+   "zil": "TREE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 63,
+   "module": "_1dungeon"
+  },
+  "TREE_ROOM": {
+   "zil": "TREE-ROOM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2880,
+   "module": "_1actions"
+  },
+  "TRIDENT": {
+   "zil": "TRIDENT",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 376,
+   "module": "_1dungeon"
+  },
+  "TROLL": {
+   "zil": "TROLL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1036,
+   "module": "_1dungeon"
+  },
+  "TROLL_FCN": {
+   "zil": "TROLL-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 640,
+   "module": "_1actions"
+  },
+  "TROLL_FLAG": {
+   "zil": "TROLL-FLAG",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1233,
+   "module": "_1dungeon"
+  },
+  "TROLL_MELEE": {
+   "zil": "TROLL-MELEE",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3689,
+   "module": "_1actions"
+  },
+  "TROLL_ROOM": {
+   "zil": "TROLL-ROOM",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1479,
+   "module": "_1dungeon"
+  },
+  "TROLL_ROOM_F": {
+   "zil": "TROLL-ROOM-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4175,
+   "module": "_1actions"
+  },
+  "TROPHY_CASE": {
+   "zil": "TROPHY-CASE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 338,
+   "module": "_1dungeon"
+  },
+  "TROPHY_CASE_FCN": {
+   "zil": "TROPHY-CASE-FCN",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 442,
+   "module": "_1actions"
+  },
+  "TRUNK": {
+   "zil": "TRUNK",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1048,
+   "module": "_1dungeon"
+  },
+  "TRUNK_F": {
+   "zil": "TRUNK-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4140,
+   "module": "_1actions"
+  },
+  "TUBE": {
+   "zil": "TUBE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1062,
+   "module": "_1dungeon"
+  },
+  "TUBE_FUNCTION": {
+   "zil": "TUBE-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1386,
+   "module": "_1actions"
+  },
+  "TWISTING_PASSAGE": {
+   "zil": "TWISTING-PASSAGE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1913,
+   "module": "_1dungeon"
+  },
+  "UEXIT": {
+   "zil": "UEXIT",
+   "kind": "CONSTANT",
+   "file": "gverbs.zil",
+   "line": 2002,
+   "module": "gverbs"
+  },
+  "UNCONSCIOUS": {
+   "zil": "UNCONSCIOUS",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3247,
+   "module": "_1actions"
+  },
+  "UNKNOWN_WORD": {
+   "zil": "UNKNOWN-WORD",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 665,
+   "module": "gparser"
+  },
+  "UNTIE_FROM": {
+   "zil": "UNTIE-FROM",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3080,
+   "module": "_1actions"
+  },
+  "UP_A_TREE": {
+   "zil": "UP-A-TREE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1379,
+   "module": "_1dungeon"
+  },
+  "UP_CHIMNEY_FUNCTION": {
+   "zil": "UP-CHIMNEY-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 553,
+   "module": "_1actions"
+  },
+  "VERBOSE": {
+   "zil": "VERBOSE",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 9,
+   "module": "gverbs"
+  },
+  "VILLAINS": {
+   "zil": "VILLAINS",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 3801,
+   "module": "_1actions"
+  },
+  "VILLAIN_BLOW": {
+   "zil": "VILLAIN-BLOW",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3413,
+   "module": "_1actions"
+  },
+  "VILLAIN_RESULT": {
+   "zil": "VILLAIN-RESULT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3566,
+   "module": "_1actions"
+  },
+  "VILLAIN_STRENGTH": {
+   "zil": "VILLAIN-STRENGTH",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3383,
+   "module": "_1actions"
+  },
+  "V_ADVENT": {
+   "zil": "V-ADVENT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 153,
+   "module": "gverbs"
+  },
+  "V_ALARM": {
+   "zil": "V-ALARM",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 156,
+   "module": "gverbs"
+  },
+  "V_ANSWER": {
+   "zil": "V-ANSWER",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 170,
+   "module": "gverbs"
+  },
+  "V_ATTACK": {
+   "zil": "V-ATTACK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 176,
+   "module": "gverbs"
+  },
+  "V_BACK": {
+   "zil": "V-BACK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 195,
+   "module": "gverbs"
+  },
+  "V_BEST": {
+   "zil": "V-BEST",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3794,
+   "module": "_1actions"
+  },
+  "V_BEST_ADV": {
+   "zil": "V-BEST-ADV",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3795,
+   "module": "_1actions"
+  },
+  "V_BLAST": {
+   "zil": "V-BLAST",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 198,
+   "module": "gverbs"
+  },
+  "V_BOARD": {
+   "zil": "V-BOARD",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 224,
+   "module": "gverbs"
+  },
+  "V_BREATHE": {
+   "zil": "V-BREATHE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 230,
+   "module": "gverbs"
+  },
+  "V_BRIEF": {
+   "zil": "V-BRIEF",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 18,
+   "module": "gverbs"
+  },
+  "V_BRUSH": {
+   "zil": "V-BRUSH",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 233,
+   "module": "gverbs"
+  },
+  "V_BUG": {
+   "zil": "V-BUG",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 236,
+   "module": "gverbs"
+  },
+  "V_BURN": {
+   "zil": "V-BURN",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 251,
+   "module": "gverbs"
+  },
+  "V_CHOMP": {
+   "zil": "V-CHOMP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 276,
+   "module": "gverbs"
+  },
+  "V_CLIMB_DOWN": {
+   "zil": "V-CLIMB-DOWN",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 279,
+   "module": "gverbs"
+  },
+  "V_CLIMB_FOO": {
+   "zil": "V-CLIMB-FOO",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 281,
+   "module": "gverbs"
+  },
+  "V_CLIMB_ON": {
+   "zil": "V-CLIMB-ON",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 290,
+   "module": "gverbs"
+  },
+  "V_CLIMB_UP": {
+   "zil": "V-CLIMB-UP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 300,
+   "module": "gverbs"
+  },
+  "V_CLOSE": {
+   "zil": "V-CLOSE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 336,
+   "module": "gverbs"
+  },
+  "V_COMMAND": {
+   "zil": "V-COMMAND",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 359,
+   "module": "gverbs"
+  },
+  "V_COMMAND_FILE": {
+   "zil": "V-COMMAND-FILE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 130,
+   "module": "gverbs"
+  },
+  "V_COUNT": {
+   "zil": "V-COUNT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 365,
+   "module": "gverbs"
+  },
+  "V_CROSS": {
+   "zil": "V-CROSS",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 371,
+   "module": "gverbs"
+  },
+  "V_CURSES": {
+   "zil": "V-CURSES",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 374,
+   "module": "gverbs"
+  },
+  "V_CUT": {
+   "zil": "V-CUT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 384,
+   "module": "gverbs"
+  },
+  "V_DEFLATE": {
+   "zil": "V-DEFLATE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 402,
+   "module": "gverbs"
+  },
+  "V_DIAGNOSE": {
+   "zil": "V-DIAGNOSE",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3993,
+   "module": "_1actions"
+  },
+  "V_DIG": {
+   "zil": "V-DIG",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 405,
+   "module": "gverbs"
+  },
+  "V_DISEMBARK": {
+   "zil": "V-DISEMBARK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 418,
+   "module": "gverbs"
+  },
+  "V_DISENCHANT": {
+   "zil": "V-DISENCHANT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 434,
+   "module": "gverbs"
+  },
+  "V_DRINK": {
+   "zil": "V-DRINK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 468,
+   "module": "gverbs"
+  },
+  "V_DRINK_FROM": {
+   "zil": "V-DRINK-FROM",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 471,
+   "module": "gverbs"
+  },
+  "V_DROP": {
+   "zil": "V-DROP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 479,
+   "module": "gverbs"
+  },
+  "V_EAT": {
+   "zil": "V-EAT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 483,
+   "module": "gverbs"
+  },
+  "V_ECHO": {
+   "zil": "V-ECHO",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 526,
+   "module": "gverbs"
+  },
+  "V_ENCHANT": {
+   "zil": "V-ENCHANT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 550,
+   "module": "gverbs"
+  },
+  "V_ENTER": {
+   "zil": "V-ENTER",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 620,
+   "module": "gverbs"
+  },
+  "V_EXAMINE": {
+   "zil": "V-EXAMINE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 623,
+   "module": "gverbs"
+  },
+  "V_EXIT": {
+   "zil": "V-EXIT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 632,
+   "module": "gverbs"
+  },
+  "V_EXORCISE": {
+   "zil": "V-EXORCISE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 643,
+   "module": "gverbs"
+  },
+  "V_FILL": {
+   "zil": "V-FILL",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 664,
+   "module": "gverbs"
+  },
+  "V_FIND": {
+   "zil": "V-FIND",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 677,
+   "module": "gverbs"
+  },
+  "V_FIRST_LOOK": {
+   "zil": "V-FIRST-LOOK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1630,
+   "module": "gverbs"
+  },
+  "V_FOLLOW": {
+   "zil": "V-FOLLOW",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 701,
+   "module": "gverbs"
+  },
+  "V_FROBOZZ": {
+   "zil": "V-FROBOZZ",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 704,
+   "module": "gverbs"
+  },
+  "V_GIVE": {
+   "zil": "V-GIVE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 713,
+   "module": "gverbs"
+  },
+  "V_HATCH": {
+   "zil": "V-HATCH",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 719,
+   "module": "gverbs"
+  },
+  "V_HELLO": {
+   "zil": "V-HELLO",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 724,
+   "module": "gverbs"
+  },
+  "V_INCANT": {
+   "zil": "V-INCANT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 736,
+   "module": "gverbs"
+  },
+  "V_INFLATE": {
+   "zil": "V-INFLATE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 757,
+   "module": "gverbs"
+  },
+  "V_INVENTORY": {
+   "zil": "V-INVENTORY",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 29,
+   "module": "gverbs"
+  },
+  "V_KICK": {
+   "zil": "V-KICK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 760,
+   "module": "gverbs"
+  },
+  "V_KISS": {
+   "zil": "V-KISS",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 762,
+   "module": "gverbs"
+  },
+  "V_KNOCK": {
+   "zil": "V-KNOCK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 765,
+   "module": "gverbs"
+  },
+  "V_LAMP_OFF": {
+   "zil": "V-LAMP-OFF",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 771,
+   "module": "gverbs"
+  },
+  "V_LAMP_ON": {
+   "zil": "V-LAMP-ON",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 786,
+   "module": "gverbs"
+  },
+  "V_LAUNCH": {
+   "zil": "V-LAUNCH",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 804,
+   "module": "gverbs"
+  },
+  "V_LEAN_ON": {
+   "zil": "V-LEAN-ON",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 810,
+   "module": "gverbs"
+  },
+  "V_LEAP": {
+   "zil": "V-LEAP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 813,
+   "module": "gverbs"
+  },
+  "V_LEAVE": {
+   "zil": "V-LEAVE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 850,
+   "module": "gverbs"
+  },
+  "V_LISTEN": {
+   "zil": "V-LISTEN",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 852,
+   "module": "gverbs"
+  },
+  "V_LOCK": {
+   "zil": "V-LOCK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 855,
+   "module": "gverbs"
+  },
+  "V_LOOK": {
+   "zil": "V-LOOK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 858,
+   "module": "gverbs"
+  },
+  "V_LOOK_BEHIND": {
+   "zil": "V-LOOK-BEHIND",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 862,
+   "module": "gverbs"
+  },
+  "V_LOOK_INSIDE": {
+   "zil": "V-LOOK-INSIDE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 865,
+   "module": "gverbs"
+  },
+  "V_LOOK_ON": {
+   "zil": "V-LOOK-ON",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 892,
+   "module": "gverbs"
+  },
+  "V_LOOK_UNDER": {
+   "zil": "V-LOOK-UNDER",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 899,
+   "module": "gverbs"
+  },
+  "V_LOWER": {
+   "zil": "V-LOWER",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 902,
+   "module": "gverbs"
+  },
+  "V_MAKE": {
+   "zil": "V-MAKE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 904,
+   "module": "gverbs"
+  },
+  "V_MELT": {
+   "zil": "V-MELT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 907,
+   "module": "gverbs"
+  },
+  "V_MOVE": {
+   "zil": "V-MOVE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 914,
+   "module": "gverbs"
+  },
+  "V_MSGS": {
+   "zil": "V-MSGS",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3797,
+   "module": "_1actions"
+  },
+  "V_MUMBLE": {
+   "zil": "V-MUMBLE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 920,
+   "module": "gverbs"
+  },
+  "V_MUNG": {
+   "zil": "V-MUNG",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 938,
+   "module": "gverbs"
+  },
+  "V_ODYSSEUS": {
+   "zil": "V-ODYSSEUS",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 945,
+   "module": "gverbs"
+  },
+  "V_OIL": {
+   "zil": "V-OIL",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 963,
+   "module": "gverbs"
+  },
+  "V_OPEN": {
+   "zil": "V-OPEN",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 966,
+   "module": "gverbs"
+  },
+  "V_OVERBOARD": {
+   "zil": "V-OVERBOARD",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 996,
+   "module": "gverbs"
+  },
+  "V_PICK": {
+   "zil": "V-PICK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1011,
+   "module": "gverbs"
+  },
+  "V_PLAY": {
+   "zil": "V-PLAY",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1013,
+   "module": "gverbs"
+  },
+  "V_PLUG": {
+   "zil": "V-PLUG",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1021,
+   "module": "gverbs"
+  },
+  "V_POUR_ON": {
+   "zil": "V-POUR-ON",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1024,
+   "module": "gverbs"
+  },
+  "V_PRAY": {
+   "zil": "V-PRAY",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1046,
+   "module": "gverbs"
+  },
+  "V_PROB": {
+   "zil": "V-PROB",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3796,
+   "module": "_1actions"
+  },
+  "V_PUMP": {
+   "zil": "V-PUMP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1056,
+   "module": "gverbs"
+  },
+  "V_PUSH": {
+   "zil": "V-PUSH",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1070,
+   "module": "gverbs"
+  },
+  "V_PUSH_TO": {
+   "zil": "V-PUSH-TO",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1072,
+   "module": "gverbs"
+  },
+  "V_PUT": {
+   "zil": "V-PUT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1085,
+   "module": "gverbs"
+  },
+  "V_PUT_BEHIND": {
+   "zil": "V-PUT-BEHIND",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1116,
+   "module": "gverbs"
+  },
+  "V_PUT_ON": {
+   "zil": "V-PUT-ON",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1119,
+   "module": "gverbs"
+  },
+  "V_PUT_UNDER": {
+   "zil": "V-PUT-UNDER",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1128,
+   "module": "gverbs"
+  },
+  "V_QUIT": {
+   "zil": "V-QUIT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 55,
+   "module": "gverbs"
+  },
+  "V_RAISE": {
+   "zil": "V-RAISE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1131,
+   "module": "gverbs"
+  },
+  "V_RANDOM": {
+   "zil": "V-RANDOM",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 134,
+   "module": "gverbs"
+  },
+  "V_RAPE": {
+   "zil": "V-RAPE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1134,
+   "module": "gverbs"
+  },
+  "V_READ": {
+   "zil": "V-READ",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1143,
+   "module": "gverbs"
+  },
+  "V_READ_PAGE": {
+   "zil": "V-READ-PAGE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1149,
+   "module": "gverbs"
+  },
+  "V_RECORD": {
+   "zil": "V-RECORD",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 141,
+   "module": "gverbs"
+  },
+  "V_REPENT": {
+   "zil": "V-REPENT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1153,
+   "module": "gverbs"
+  },
+  "V_REPLY": {
+   "zil": "V-REPLY",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1156,
+   "module": "gverbs"
+  },
+  "V_RESTART": {
+   "zil": "V-RESTART",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 63,
+   "module": "gverbs"
+  },
+  "V_RESTORE": {
+   "zil": "V-RESTORE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 71,
+   "module": "gverbs"
+  },
+  "V_RING": {
+   "zil": "V-RING",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1162,
+   "module": "gverbs"
+  },
+  "V_RUB": {
+   "zil": "V-RUB",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1165,
+   "module": "gverbs"
+  },
+  "V_SAVE": {
+   "zil": "V-SAVE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 78,
+   "module": "gverbs"
+  },
+  "V_SAY": {
+   "zil": "V-SAY",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1167,
+   "module": "gverbs"
+  },
+  "V_SCORE": {
+   "zil": "V-SCORE",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 4026,
+   "module": "_1actions"
+  },
+  "V_SCRIPT": {
+   "zil": "V-SCRIPT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 86,
+   "module": "gverbs"
+  },
+  "V_SEARCH": {
+   "zil": "V-SEARCH",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1197,
+   "module": "gverbs"
+  },
+  "V_SEND": {
+   "zil": "V-SEND",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1200,
+   "module": "gverbs"
+  },
+  "V_SGIVE": {
+   "zil": "V-SGIVE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1210,
+   "module": "gverbs"
+  },
+  "V_SHAKE": {
+   "zil": "V-SHAKE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1213,
+   "module": "gverbs"
+  },
+  "V_SKIP": {
+   "zil": "V-SKIP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1269,
+   "module": "gverbs"
+  },
+  "V_SMELL": {
+   "zil": "V-SMELL",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1278,
+   "module": "gverbs"
+  },
+  "V_SPIN": {
+   "zil": "V-SPIN",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1281,
+   "module": "gverbs"
+  },
+  "V_SPRAY": {
+   "zil": "V-SPRAY",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1284,
+   "module": "gverbs"
+  },
+  "V_SQUEEZE": {
+   "zil": "V-SQUEEZE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1287,
+   "module": "gverbs"
+  },
+  "V_SSPRAY": {
+   "zil": "V-SSPRAY",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1294,
+   "module": "gverbs"
+  },
+  "V_STAB": {
+   "zil": "V-STAB",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1297,
+   "module": "gverbs"
+  },
+  "V_STAND": {
+   "zil": "V-STAND",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1305,
+   "module": "gverbs"
+  },
+  "V_STAY": {
+   "zil": "V-STAY",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1312,
+   "module": "gverbs"
+  },
+  "V_STRIKE": {
+   "zil": "V-STRIKE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1315,
+   "module": "gverbs"
+  },
+  "V_SUPER_BRIEF": {
+   "zil": "V-SUPER-BRIEF",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 23,
+   "module": "gverbs"
+  },
+  "V_SWIM": {
+   "zil": "V-SWIM",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1324,
+   "module": "gverbs"
+  },
+  "V_SWING": {
+   "zil": "V-SWING",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1347,
+   "module": "gverbs"
+  },
+  "V_TAKE": {
+   "zil": "V-TAKE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1382,
+   "module": "gverbs"
+  },
+  "V_TELL": {
+   "zil": "V-TELL",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1389,
+   "module": "gverbs"
+  },
+  "V_THROUGH": {
+   "zil": "V-THROUGH",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1404,
+   "module": "gverbs"
+  },
+  "V_THROW": {
+   "zil": "V-THROW",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1445,
+   "module": "gverbs"
+  },
+  "V_THROW_OFF": {
+   "zil": "V-THROW-OFF",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1462,
+   "module": "gverbs"
+  },
+  "V_TIE": {
+   "zil": "V-TIE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1465,
+   "module": "gverbs"
+  },
+  "V_TIE_UP": {
+   "zil": "V-TIE-UP",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1471,
+   "module": "gverbs"
+  },
+  "V_TREASURE": {
+   "zil": "V-TREASURE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1474,
+   "module": "gverbs"
+  },
+  "V_TURN": {
+   "zil": "V-TURN",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1505,
+   "module": "gverbs"
+  },
+  "V_UNLOCK": {
+   "zil": "V-UNLOCK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1508,
+   "module": "gverbs"
+  },
+  "V_UNRECORD": {
+   "zil": "V-UNRECORD",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 145,
+   "module": "gverbs"
+  },
+  "V_UNSCRIPT": {
+   "zil": "V-UNSCRIPT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 92,
+   "module": "gverbs"
+  },
+  "V_UNTIE": {
+   "zil": "V-UNTIE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1511,
+   "module": "gverbs"
+  },
+  "V_VERBOSE": {
+   "zil": "V-VERBOSE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 13,
+   "module": "gverbs"
+  },
+  "V_VERIFY": {
+   "zil": "V-VERIFY",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 123,
+   "module": "gverbs"
+  },
+  "V_VERSION": {
+   "zil": "V-VERSION",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 98,
+   "module": "gverbs"
+  },
+  "V_VILLAIN": {
+   "zil": "V-VILLAIN",
+   "kind": "CONSTANT",
+   "file": "1actions.zil",
+   "line": 3793,
+   "module": "_1actions"
+  },
+  "V_WAIT": {
+   "zil": "V-WAIT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1514,
+   "module": "gverbs"
+  },
+  "V_WALK": {
+   "zil": "V-WALK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1521,
+   "module": "gverbs"
+  },
+  "V_WALK_AROUND": {
+   "zil": "V-WALK-AROUND",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1583,
+   "module": "gverbs"
+  },
+  "V_WALK_TO": {
+   "zil": "V-WALK-TO",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1586,
+   "module": "gverbs"
+  },
+  "V_WAVE": {
+   "zil": "V-WAVE",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1594,
+   "module": "gverbs"
+  },
+  "V_WEAR": {
+   "zil": "V-WEAR",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1597,
+   "module": "gverbs"
+  },
+  "V_WIN": {
+   "zil": "V-WIN",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1604,
+   "module": "gverbs"
+  },
+  "V_WIND": {
+   "zil": "V-WIND",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1607,
+   "module": "gverbs"
+  },
+  "V_WISH": {
+   "zil": "V-WISH",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1610,
+   "module": "gverbs"
+  },
+  "V_YELL": {
+   "zil": "V-YELL",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1616,
+   "module": "gverbs"
+  },
+  "V_ZORK": {
+   "zil": "V-ZORK",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1618,
+   "module": "gverbs"
+  },
+  "WALL": {
+   "zil": "WALL",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 27,
+   "module": "_1dungeon"
+  },
+  "WATER": {
+   "zil": "WATER",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 85,
+   "module": "_1dungeon"
+  },
+  "WATER_F": {
+   "zil": "WATER-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 157,
+   "module": "_1actions"
+  },
+  "WATER_LEVEL": {
+   "zil": "WATER-LEVEL",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1295,
+   "module": "_1actions"
+  },
+  "WCLIF_OBJECT": {
+   "zil": "WCLIF-OBJECT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3011,
+   "module": "_1actions"
+  },
+  "WEAPON_FUNCTION": {
+   "zil": "WEAPON-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 629,
+   "module": "_1actions"
+  },
+  "WEIGHT": {
+   "zil": "WEIGHT",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1988,
+   "module": "gverbs"
+  },
+  "WEST_HOUSE": {
+   "zil": "WEST-HOUSE",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 7,
+   "module": "_1actions"
+  },
+  "WEST_OF_HOUSE": {
+   "zil": "WEST-OF-HOUSE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1239,
+   "module": "_1dungeon"
+  },
+  "WHEEEEE": {
+   "zil": "WHEEEEE",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 1272,
+   "module": "gverbs"
+  },
+  "WHICH_PRINT": {
+   "zil": "WHICH-PRINT",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1146,
+   "module": "gparser"
+  },
+  "WHITE_CLIFF": {
+   "zil": "WHITE-CLIFF",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1123,
+   "module": "_1dungeon"
+  },
+  "WHITE_CLIFFS_FUNCTION": {
+   "zil": "WHITE-CLIFFS-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 2585,
+   "module": "_1actions"
+  },
+  "WHITE_CLIFFS_NORTH": {
+   "zil": "WHITE-CLIFFS-NORTH",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2233,
+   "module": "_1dungeon"
+  },
+  "WHITE_CLIFFS_SOUTH": {
+   "zil": "WHITE-CLIFFS-SOUTH",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 2246,
+   "module": "_1dungeon"
+  },
+  "WHITE_HOUSE": {
+   "zil": "WHITE-HOUSE",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 48,
+   "module": "_1dungeon"
+  },
+  "WHITE_HOUSE_F": {
+   "zil": "WHITE-HOUSE-F",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 92,
+   "module": "_1actions"
+  },
+  "WINDING_PASSAGE": {
+   "zil": "WINDING-PASSAGE",
+   "kind": "ROOM",
+   "file": "1dungeon.zil",
+   "line": 1903,
+   "module": "_1dungeon"
+  },
+  "WINNER": {
+   "zil": "WINNER",
+   "kind": "GLOBAL",
+   "file": "gparser.zil",
+   "line": 32,
+   "module": "gparser"
+  },
+  "WINNER_RESULT": {
+   "zil": "WINNER-RESULT",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3552,
+   "module": "_1actions"
+  },
+  "WINNING_p": {
+   "zil": "WINNING?",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 3584,
+   "module": "_1actions"
+  },
+  "WITH_TELL": {
+   "zil": "WITH-TELL",
+   "kind": "ROUTINE",
+   "file": "1actions.zil",
+   "line": 1412,
+   "module": "_1actions"
+  },
+  "WON_FLAG": {
+   "zil": "WON-FLAG",
+   "kind": "GLOBAL",
+   "file": "1dungeon.zil",
+   "line": 1234,
+   "module": "_1dungeon",
+   "redefined": [
+    {
+     "kind": "GLOBAL",
+     "file": "gverbs.zil",
+     "line": 1849,
+     "module": "gverbs"
+    }
+   ]
+  },
+  "WOODEN_DOOR": {
+   "zil": "WOODEN-DOOR",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 905,
+   "module": "_1dungeon"
+  },
+  "WORD_PRINT": {
+   "zil": "WORD-PRINT",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 658,
+   "module": "gparser"
+  },
+  "WRENCH": {
+   "zil": "WRENCH",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 1131,
+   "module": "_1dungeon"
+  },
+  "WT_p": {
+   "zil": "WT?",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 430,
+   "module": "gparser"
+  },
+  "XB": {
+   "zil": "XB",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1127,
+   "module": "_1actions"
+  },
+  "XC": {
+   "zil": "XC",
+   "kind": "GLOBAL",
+   "file": "1actions.zil",
+   "line": 1129,
+   "module": "_1actions"
+  },
+  "YELLOW_BUTTON": {
+   "zil": "YELLOW-BUTTON",
+   "kind": "OBJECT",
+   "file": "1dungeon.zil",
+   "line": 306,
+   "module": "_1dungeon"
+  },
+  "YES_p": {
+   "zil": "YES?",
+   "kind": "ROUTINE",
+   "file": "gverbs.zil",
+   "line": 1872,
+   "module": "gverbs"
+  },
+  "YUKS": {
+   "zil": "YUKS",
+   "kind": "GLOBAL",
+   "file": "gverbs.zil",
+   "line": 2204,
+   "module": "gverbs"
+  },
+  "ZMEMQ": {
+   "zil": "ZMEMQ",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1315,
+   "module": "gparser"
+  },
+  "ZMEMQB": {
+   "zil": "ZMEMQB",
+   "kind": "ROUTINE",
+   "file": "gparser.zil",
+   "line": 1324,
+   "module": "gparser"
+  },
+  "ZORKMID": {
+   "zil": "ZORKMID",
+   "kind": "OBJECT",
+   "file": "gglobals.zil",
+   "line": 290,
+   "module": "gglobals"
+  },
+  "ZORKMID_FUNCTION": {
+   "zil": "ZORKMID-FUNCTION",
+   "kind": "ROUTINE",
+   "file": "gglobals.zil",
+   "line": 296,
+   "module": "gglobals"
+  },
+  "ZORK_NUMBER": {
+   "zil": "ZORK-NUMBER",
+   "kind": "SETG",
+   "file": "zork1.zil",
+   "line": 7,
+   "module": "zork1"
+  },
+  "ZPROB": {
+   "zil": "ZPROB",
+   "kind": "ROUTINE",
+   "file": "gmacros.zil",
+   "line": 119,
+   "module": "gmacros"
+  }
+ },
+ "locals": {
+  "ACCESSIBLE_p": {
+   "OBJ": "OBJ_l"
+  },
+  "AWAKEN": {
+   "O": "O_l",
+   "S": "S_l"
+  },
+  "BUT_MERGE": {
+   "OBJ": "OBJ_l"
+  },
+  "CCOUNT": {
+   "OBJ": "OBJ_l"
+  },
+  "CLAUSE": {
+   "NUM": "NUM_l"
+  },
+  "CLOCKER": {
+   "C": "C_l"
+  },
+  "DD_APPLY": {
+   "OBJ": "OBJ_l"
+  },
+  "DEPOSIT_BOOTY": {
+   "N": "N_l"
+  },
+  "DESCRIBE_OBJECT": {
+   "OBJ": "OBJ_l"
+  },
+  "DO_FIGHT": {
+   "O": "O_l"
+  },
+  "DO_SL": {
+   "OBJ": "OBJ_l"
+  },
+  "DROP_JUNK": {
+   "N": "N_l"
+  },
+  "FIGHT_STRENGTH": {
+   "S": "S_l"
+  },
+  "FIND_WEAPON": {
+   "O": "O_l"
+  },
+  "FIRSTER": {
+   "OBJ": "OBJ_l"
+  },
+  "FWEEP": {
+   "N": "N_l"
+  },
+  "GET_OBJECT": {
+   "OBJ": "OBJ_l"
+  },
+  "GLOBAL_CHECK": {
+   "OBJ": "OBJ_l"
+  },
+  "GWIM": {
+   "OBJ": "OBJ_l"
+  },
+  "INT": {
+   "C": "C_l"
+  },
+  "ITAKE": {
+   "OBJ": "OBJ_l"
+  },
+  "ITAKE_CHECK": {
+   "OBJ": "OBJ_l"
+  },
+  "I_CURE": {
+   "S": "S_l"
+  },
+  "I_FIGHT": {
+   "O": "O_l"
+  },
+  "JIGS_UP": {
+   "DESC": "DESC_l"
+  },
+  "LIGHT_INT": {
+   "OBJ": "OBJ_l"
+  },
+  "MAIN_LOOP_1": {
+   "NUM": "NUM_l",
+   "O": "O_l",
+   "OBJ": "OBJ_l"
+  },
+  "META_LOC": {
+   "OBJ": "OBJ_l"
+  },
+  "MIRROR_MIRROR": {
+   "N": "N_l"
+  },
+  "MOVE_ALL": {
+   "N": "N_l"
+  },
+  "MSWITCH_FUNCTION": {
+   "O": "O_l"
+  },
+  "NOT_HERE_OBJECT_F": {
+   "OBJ": "OBJ_l",
+   "PRSO?": "PRSO_p_l"
+  },
+  "NOT_HERE_PRINT": {
+   "PRSO?": "PRSO_p_l"
+  },
+  "NUMBER_p": {
+   "CHR": "CHR_l"
+  },
+  "OBJ_FOUND": {
+   "OBJ": "OBJ_l"
+  },
+  "OPEN_CLOSE": {
+   "OBJ": "OBJ_l"
+  },
+  "OTVAL_FROB": {
+   "O": "O_l"
+  },
+  "PERFORM": {
+   "A": "A_l",
+   "O": "O_l"
+  },
+  "PRINT_CONT": {
+   "OBJ": "OBJ_l"
+  },
+  "PRINT_CONTENTS": {
+   "N": "N_l",
+   "OBJ": "OBJ_l"
+  },
+  "RANDOMIZE_OBJECTS": {
+   "N": "N_l"
+  },
+  "REMARK": {
+   "D": "D_l"
+  },
+  "REMOVE_CAREFULLY": {
+   "OBJ": "OBJ_l"
+  },
+  "ROB": {
+   "N": "N_l"
+  },
+  "ROBBER_FUNCTION": {
+   "N": "N_l"
+  },
+  "ROB_MAZE": {
+   "N": "N_l"
+  },
+  "SCORE_OBJ": {
+   "OBJ": "OBJ_l"
+  },
+  "SCORE_UPD": {
+   "NUM": "NUM_l"
+  },
+  "SEARCH_LIST": {
+   "OBJ": "OBJ_l"
+  },
+  "SEE_INSIDE_p": {
+   "OBJ": "OBJ_l"
+  },
+  "SLIDER": {
+   "OBJ": "OBJ_l"
+  },
+  "STEAL_JUNK": {
+   "N": "N_l"
+  },
+  "STUPID_CONTAINER": {
+   "OBJ": "OBJ_l"
+  },
+  "SYNTAX_CHECK": {
+   "NUM": "NUM_l",
+   "OBJ": "OBJ_l"
+  },
+  "THIEF_IN_TREASURE": {
+   "N": "N_l"
+  },
+  "THING_PRINT": {
+   "PRSO?": "PRSO_p_l"
+  },
+  "THIS_IS_IT": {
+   "OBJ": "OBJ_l"
+  },
+  "THIS_IT_p": {
+   "OBJ": "OBJ_l"
+  },
+  "TOUCH_ALL": {
+   "OBJ": "OBJ_l"
+  },
+  "V_CLIMB_UP": {
+   "OBJ": "OBJ_l"
+  },
+  "V_LEAP": {
+   "S": "S_l"
+  },
+  "V_THROUGH": {
+   "OBJ": "OBJ_l"
+  },
+  "V_WAIT": {
+   "NUM": "NUM_l"
+  },
+  "V_WALK": {
+   "OBJ": "OBJ_l"
+  },
+  "WEIGHT": {
+   "OBJ": "OBJ_l"
+  },
+  "WHICH_PRINT": {
+   "OBJ": "OBJ_l"
+  },
+  "WITH_TELL": {
+   "OBJ": "OBJ_l"
+  }
+ }
+}
